@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31/05/2026, 05:06:33 KST",
+  "updatedAt": "31/05/2026, 06:58:03 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Singapore",
-      "rank": 58,
+      "rank": 65,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -30,8 +30,8 @@
     {
       "title": "Who",
       "country": "Panama",
-      "rank": 74,
-      "movement": "-41",
+      "rank": 75,
+      "movement": "-32",
       "type": "single",
       "isTop1": false
     },
@@ -88,7 +88,7 @@
     {
       "title": "MUSE",
       "country": "Dominican Republic",
-      "rank": 7,
+      "rank": 8,
       "movement": "-2",
       "type": "album",
       "isTop1": false
