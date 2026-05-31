@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31/05/2026, 19:11:53 KST",
+  "updatedAt": "31/05/2026, 21:09:13 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Panama",
-      "rank": 83,
+      "rank": 86,
       "movement": "-15",
       "type": "single",
       "isTop1": false
@@ -81,7 +81,7 @@
       "title": "MUSE",
       "country": "Dominican Republic",
       "rank": 8,
-      "movement": "-2",
+      "movement": "-1",
       "type": "album",
       "isTop1": false
     },
