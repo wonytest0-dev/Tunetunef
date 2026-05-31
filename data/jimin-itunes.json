@@ -1,13 +1,13 @@
 {
-  "updatedAt": "31/05/2026, 16:03:10 KST",
-  "totalEntries": 15,
+  "updatedAt": "31/05/2026, 19:11:53 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Guinea-Bissau",
       "rank": 18,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -22,16 +22,8 @@
     {
       "title": "Who",
       "country": "Panama",
-      "rank": 77,
-      "movement": "-14",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Chile",
-      "rank": 107,
-      "movement": "NE",
+      "rank": 83,
+      "movement": "-15",
       "type": "single",
       "isTop1": false
     },
@@ -47,7 +39,7 @@
       "title": "Like Crazy",
       "country": "Guinea-Bissau",
       "rank": 24,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -130,7 +122,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
