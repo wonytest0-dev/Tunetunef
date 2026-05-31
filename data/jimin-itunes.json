@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31/05/2026, 21:09:13 KST",
+  "updatedAt": "31/05/2026, 23:29:07 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -22,8 +22,8 @@
     {
       "title": "Who",
       "country": "Panama",
-      "rank": 86,
-      "movement": "-15",
+      "rank": 87,
+      "movement": "-16",
       "type": "single",
       "isTop1": false
     },
@@ -88,7 +88,7 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 38,
+      "rank": 39,
       "movement": "=",
       "type": "album",
       "isTop1": false
