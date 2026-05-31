@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01/06/2026, 06:56:44 KST",
-  "totalEntries": 15,
+  "updatedAt": "01/06/2026, 07:59:32 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -21,9 +21,17 @@
     },
     {
       "title": "Who",
+      "country": "Ukraine",
+      "rank": 58,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Panama",
-      "rank": 93,
-      "movement": "-18",
+      "rank": 95,
+      "movement": "-20",
       "type": "single",
       "isTop1": false
     },
@@ -78,7 +86,7 @@
     {
       "title": "Like Crazy",
       "country": "Malaysia",
-      "rank": 186,
+      "rank": 195,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -130,7 +138,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
