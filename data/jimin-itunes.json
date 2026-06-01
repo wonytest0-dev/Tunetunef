@@ -1,12 +1,12 @@
 {
-  "updatedAt": "02/06/2026, 02:30:45 KST",
-  "totalEntries": 16,
+  "updatedAt": "02/06/2026, 06:28:46 KST",
+  "totalEntries": 17,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Ukraine",
-      "rank": 8,
+      "rank": 5,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Chile",
-      "rank": 23,
+      "rank": 25,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -38,7 +38,7 @@
     {
       "title": "Who",
       "country": "Egypt",
-      "rank": 83,
+      "rank": 92,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -105,7 +105,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 40,
-      "movement": "-1",
+      "movement": "+1",
       "type": "album",
       "isTop1": false
     },
@@ -122,6 +122,14 @@
       "country": "Nepal",
       "rank": 60,
       "movement": "+1",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Netherlands",
+      "rank": 69,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     },
@@ -152,7 +160,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
