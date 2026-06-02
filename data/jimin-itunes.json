@@ -1,13 +1,21 @@
 {
-  "updatedAt": "02/06/2026, 08:25:04 KST",
-  "totalEntries": 17,
+  "updatedAt": "02/06/2026, 12:34:02 KST",
+  "totalEntries": 19,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
-      "country": "Ukraine",
-      "rank": 5,
+      "country": "Chile",
+      "rank": 4,
       "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Ukraine",
+      "rank": 8,
+      "movement": "+75",
       "type": "single",
       "isTop1": false
     },
@@ -16,14 +24,6 @@
       "country": "Guinea-Bissau",
       "rank": 18,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Chile",
-      "rank": 26,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -38,8 +38,8 @@
     {
       "title": "Who",
       "country": "Egypt",
-      "rank": 92,
-      "movement": "NE",
+      "rank": 120,
+      "movement": "-67",
       "type": "single",
       "isTop1": false
     },
@@ -54,24 +54,24 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 28,
-      "movement": "-11",
+      "rank": 27,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Niger",
-      "rank": 35,
-      "movement": "=",
+      "rank": 34,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 37,
-      "movement": "-8",
+      "rank": 36,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -90,6 +90,14 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Chile",
+      "rank": 178,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
     }
   ],
   "albums": [
@@ -97,14 +105,22 @@
       "title": "MUSE",
       "country": "Dominican Republic",
       "rank": 9,
-      "movement": "-1",
+      "movement": "=",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Chile",
+      "rank": 18,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 40,
+      "rank": 39,
       "movement": "+1",
       "type": "album",
       "isTop1": false
@@ -121,7 +137,7 @@
       "title": "MUSE",
       "country": "Nepal",
       "rank": 60,
-      "movement": "+1",
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
@@ -136,7 +152,7 @@
     {
       "title": "MUSE",
       "country": "Netherlands",
-      "rank": 86,
+      "rank": 111,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -158,9 +174,16 @@
       "countriesTop1": []
     },
     {
+      "title": "Be Mine",
+      "type": "single",
+      "totalEntries": 1,
+      "totalTop1": 0,
+      "countriesTop1": []
+    },
+    {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 6,
+      "totalEntries": 7,
       "totalTop1": 0,
       "countriesTop1": []
     }
