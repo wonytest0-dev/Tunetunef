@@ -1,21 +1,21 @@
 {
-  "updatedAt": "02/06/2026, 12:34:02 KST",
+  "updatedAt": "02/06/2026, 17:25:41 KST",
   "totalEntries": 19,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
-      "country": "Chile",
-      "rank": 4,
-      "movement": "NE",
+      "country": "Ukraine",
+      "rank": 10,
+      "movement": "+75",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Ukraine",
-      "rank": 8,
-      "movement": "+75",
+      "country": "Chile",
+      "rank": 17,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -38,8 +38,8 @@
     {
       "title": "Who",
       "country": "Egypt",
-      "rank": 120,
-      "movement": "-67",
+      "rank": 124,
+      "movement": "-62",
       "type": "single",
       "isTop1": false
     },
@@ -54,8 +54,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 27,
-      "movement": "-1",
+      "rank": 28,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -70,8 +70,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 36,
-      "movement": "-1",
+      "rank": 37,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -94,7 +94,7 @@
     {
       "title": "Be Mine",
       "country": "Chile",
-      "rank": 178,
+      "rank": 196,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -104,15 +104,15 @@
     {
       "title": "MUSE",
       "country": "Dominican Republic",
-      "rank": 9,
-      "movement": "=",
+      "rank": 10,
+      "movement": "-1",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
       "country": "Chile",
-      "rank": 18,
+      "rank": 19,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -121,7 +121,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 39,
-      "movement": "+1",
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
@@ -152,7 +152,7 @@
     {
       "title": "MUSE",
       "country": "Netherlands",
-      "rank": 111,
+      "rank": 114,
       "movement": "NE",
       "type": "album",
       "isTop1": false
