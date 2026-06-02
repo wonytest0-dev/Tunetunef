@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02/06/2026, 21:38:17 KST",
-  "totalEntries": 20,
+  "updatedAt": "03/06/2026, 02:18:55 KST",
+  "totalEntries": 19,
   "totalTop1": 0,
   "singles": [
     {
@@ -8,14 +8,6 @@
       "country": "Guinea-Bissau",
       "rank": 18,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Ukraine",
-      "rank": 30,
-      "movement": "-23",
       "type": "single",
       "isTop1": false
     },
@@ -29,17 +21,17 @@
     },
     {
       "title": "Who",
-      "country": "Egypt",
-      "rank": 139,
-      "movement": "-70",
+      "country": "Ukraine",
+      "rank": 79,
+      "movement": "-71",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Chile",
-      "rank": 179,
-      "movement": "-158",
+      "country": "Egypt",
+      "rank": 165,
+      "movement": "-90",
       "type": "single",
       "isTop1": false
     },
@@ -104,7 +96,7 @@
     {
       "title": "MUSE",
       "country": "Australia",
-      "rank": 24,
+      "rank": 30,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -112,15 +104,15 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 39,
-      "movement": "=",
+      "rank": 42,
+      "movement": "-2",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
       "country": "Chile",
-      "rank": 41,
+      "rank": 45,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -151,16 +143,16 @@
     },
     {
       "title": "MUSE",
-      "country": "Netherlands",
-      "rank": 137,
+      "country": "Japan",
+      "rank": 187,
       "movement": "NE",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Japan",
-      "rank": 140,
+      "country": "Netherlands",
+      "rank": 188,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -170,7 +162,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
