@@ -1,29 +1,21 @@
 {
-  "updatedAt": "02/06/2026, 17:25:41 KST",
-  "totalEntries": 19,
+  "updatedAt": "02/06/2026, 21:38:17 KST",
+  "totalEntries": 20,
   "totalTop1": 0,
   "singles": [
-    {
-      "title": "Who",
-      "country": "Ukraine",
-      "rank": 10,
-      "movement": "+75",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Chile",
-      "rank": 17,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
     {
       "title": "Who",
       "country": "Guinea-Bissau",
       "rank": 18,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Ukraine",
+      "rank": 30,
+      "movement": "-23",
       "type": "single",
       "isTop1": false
     },
@@ -38,8 +30,16 @@
     {
       "title": "Who",
       "country": "Egypt",
-      "rank": 124,
-      "movement": "-62",
+      "rank": 139,
+      "movement": "-70",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Chile",
+      "rank": 179,
+      "movement": "-158",
       "type": "single",
       "isTop1": false
     },
@@ -90,29 +90,21 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Chile",
-      "rank": 196,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
     }
   ],
   "albums": [
     {
       "title": "MUSE",
       "country": "Dominican Republic",
-      "rank": 10,
-      "movement": "-1",
+      "rank": 11,
+      "movement": "-2",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Chile",
-      "rank": 19,
+      "country": "Australia",
+      "rank": 24,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -122,6 +114,14 @@
       "country": "Kyrgyzstan",
       "rank": 39,
       "movement": "=",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Chile",
+      "rank": 41,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     },
@@ -152,7 +152,15 @@
     {
       "title": "MUSE",
       "country": "Netherlands",
-      "rank": 114,
+      "rank": 137,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Japan",
+      "rank": 140,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -174,16 +182,9 @@
       "countriesTop1": []
     },
     {
-      "title": "Be Mine",
-      "type": "single",
-      "totalEntries": 1,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 7,
+      "totalEntries": 9,
       "totalTop1": 0,
       "countriesTop1": []
     }
