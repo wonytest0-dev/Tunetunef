@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04/06/2026, 17:17:02 KST",
-  "totalEntries": 17,
+  "updatedAt": "04/06/2026, 20:49:34 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -13,17 +13,17 @@
     },
     {
       "title": "Who",
-      "country": "Ukraine",
-      "rank": 29,
-      "movement": "NE",
+      "country": "Gambia",
+      "rank": 49,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Gambia",
-      "rank": 49,
-      "movement": "+1",
+      "country": "Ukraine",
+      "rank": 82,
+      "movement": "-77",
       "type": "single",
       "isTop1": false
     },
@@ -74,25 +74,9 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
-      "country": "Malaysia",
-      "rank": 175,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
     }
   ],
   "albums": [
-    {
-      "title": "MUSE",
-      "country": "Thailand",
-      "rank": 8,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
-    },
     {
       "title": "MUSE",
       "country": "Dominican Republic",
@@ -103,9 +87,17 @@
     },
     {
       "title": "MUSE",
+      "country": "Thailand",
+      "rank": 13,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 42,
-      "movement": "-1",
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
@@ -136,7 +128,7 @@
     {
       "title": "MUSE",
       "country": "Chile",
-      "rank": 96,
+      "rank": 100,
       "movement": "-32",
       "type": "album",
       "isTop1": false
@@ -153,7 +145,7 @@
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 7,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     },
