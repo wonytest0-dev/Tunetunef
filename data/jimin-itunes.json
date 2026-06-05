@@ -1,5 +1,5 @@
 {
-  "updatedAt": "06/06/2026, 06:22:09 KST",
+  "updatedAt": "06/06/2026, 08:04:07 KST",
   "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
@@ -72,7 +72,7 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 12,
+      "rank": 13,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -120,16 +120,16 @@
     {
       "title": "MUSE",
       "country": "Thailand",
-      "rank": 90,
-      "movement": "-60",
+      "rank": 97,
+      "movement": "-67",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
       "country": "Chile",
-      "rank": 161,
-      "movement": "-41",
+      "rank": 165,
+      "movement": "-45",
       "type": "album",
       "isTop1": false
     }
