@@ -1,5 +1,5 @@
 {
-  "updatedAt": "05/06/2026, 23:41:09 KST",
+  "updatedAt": "06/06/2026, 02:12:45 KST",
   "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
@@ -14,8 +14,8 @@
     {
       "title": "Who",
       "country": "Gambia",
-      "rank": 48,
-      "movement": "+1",
+      "rank": 49,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -71,6 +71,14 @@
   "albums": [
     {
       "title": "MUSE",
+      "country": "Philippines",
+      "rank": 9,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
       "country": "Dominican Republic",
       "rank": 20,
       "movement": "-9",
@@ -104,8 +112,8 @@
     {
       "title": "MUSE",
       "country": "Thailand",
-      "rank": 61,
-      "movement": "-42",
+      "rank": 70,
+      "movement": "-51",
       "type": "album",
       "isTop1": false
     },
@@ -120,16 +128,8 @@
     {
       "title": "MUSE",
       "country": "Chile",
-      "rank": 137,
-      "movement": "-33",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Austria",
-      "rank": 155,
-      "movement": "NE",
+      "rank": 143,
+      "movement": "-39",
       "type": "album",
       "isTop1": false
     }
