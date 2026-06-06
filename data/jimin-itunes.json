@@ -1,5 +1,5 @@
 {
-  "updatedAt": "06/06/2026, 20:23:01 KST",
+  "updatedAt": "06/06/2026, 22:23:23 KST",
   "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
@@ -120,8 +120,8 @@
     {
       "title": "MUSE",
       "country": "Thailand",
-      "rank": 116,
-      "movement": "-67",
+      "rank": 118,
+      "movement": "-57",
       "type": "album",
       "isTop1": false
     },
