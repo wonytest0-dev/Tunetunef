@@ -1,5 +1,5 @@
 {
-  "updatedAt": "06/06/2026, 11:45:36 KST",
+  "updatedAt": "06/06/2026, 15:27:10 KST",
   "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
@@ -39,7 +39,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 29,
-      "movement": "+4",
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
@@ -72,7 +72,7 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 12,
+      "rank": 14,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -95,17 +95,17 @@
     },
     {
       "title": "MUSE",
-      "country": "Dominican Republic",
+      "country": "Nepal",
       "rank": 60,
-      "movement": "-41",
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Nepal",
-      "rank": 60,
-      "movement": "=",
+      "country": "Dominican Republic",
+      "rank": 61,
+      "movement": "-41",
       "type": "album",
       "isTop1": false
     },
@@ -120,16 +120,16 @@
     {
       "title": "MUSE",
       "country": "Thailand",
-      "rank": 97,
-      "movement": "-68",
+      "rank": 103,
+      "movement": "-71",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
       "country": "Chile",
-      "rank": 169,
-      "movement": "-49",
+      "rank": 183,
+      "movement": "-50",
       "type": "album",
       "isTop1": false
     }
