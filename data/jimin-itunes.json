@@ -1,13 +1,13 @@
 {
-  "updatedAt": "07/06/2026, 14:19:18 KST",
-  "totalEntries": 15,
+  "updatedAt": "07/06/2026, 17:50:42 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Guinea-Bissau",
       "rank": 14,
-      "movement": "+3",
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
@@ -23,7 +23,7 @@
       "title": "Like Crazy",
       "country": "Guinea-Bissau",
       "rank": 20,
-      "movement": "+3",
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
@@ -96,8 +96,8 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 61,
-      "movement": "-49",
+      "rank": 73,
+      "movement": "-46",
       "type": "album",
       "isTop1": false
     },
@@ -112,16 +112,8 @@
     {
       "title": "MUSE",
       "country": "Japan",
-      "rank": 165,
+      "rank": 132,
       "movement": "NE",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Thailand",
-      "rank": 185,
-      "movement": "-88",
       "type": "album",
       "isTop1": false
     }
@@ -144,7 +136,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 7,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
