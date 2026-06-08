@@ -1,5 +1,5 @@
 {
-  "updatedAt": "08/06/2026, 17:50:29 KST",
+  "updatedAt": "08/06/2026, 22:03:16 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -104,8 +104,8 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 111,
-      "movement": "-34",
+      "rank": 132,
+      "movement": "-50",
       "type": "album",
       "isTop1": false
     }
