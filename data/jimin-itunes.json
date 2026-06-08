@@ -1,13 +1,13 @@
 {
-  "updatedAt": "08/06/2026, 08:01:17 KST",
-  "totalEntries": 15,
+  "updatedAt": "08/06/2026, 12:34:31 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Guinea-Bissau",
       "rank": 14,
-      "movement": "+2",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Singapore",
-      "rank": 78,
+      "rank": 84,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -31,7 +31,7 @@
       "title": "Like Crazy",
       "country": "Guinea-Bissau",
       "rank": 20,
-      "movement": "+2",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -39,14 +39,14 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 27,
-      "movement": "+1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Niger",
-      "rank": 28,
+      "rank": 27,
       "movement": "+1",
       "type": "single",
       "isTop1": false
@@ -55,7 +55,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 36,
-      "movement": "+1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -88,8 +88,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 49,
-      "movement": "-1",
+      "rank": 51,
+      "movement": "-2",
       "type": "album",
       "isTop1": false
     },
@@ -112,16 +112,8 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 100,
+      "rank": 105,
       "movement": "-44",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Japan",
-      "rank": 190,
-      "movement": "NE",
       "type": "album",
       "isTop1": false
     }
@@ -144,7 +136,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 6,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
