@@ -1,5 +1,5 @@
 {
-  "updatedAt": "13/06/2026, 23:57:31 KST",
+  "updatedAt": "14/06/2026, 01:14:49 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -22,8 +22,8 @@
     {
       "title": "Who",
       "country": "Indonesia",
-      "rank": 79,
-      "movement": "+101",
+      "rank": 96,
+      "movement": "+84",
       "type": "single",
       "isTop1": false
     },
@@ -112,8 +112,8 @@
     {
       "title": "MUSE",
       "country": "Russia",
-      "rank": 88,
-      "movement": "-60",
+      "rank": 95,
+      "movement": "-67",
       "type": "album",
       "isTop1": false
     },
