@@ -1,5 +1,5 @@
 {
-  "updatedAt": "15/06/2026, 02:16:30 KST",
+  "updatedAt": "15/06/2026, 04:20:21 KST",
   "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
@@ -22,8 +22,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 15,
-      "movement": "-2",
+      "rank": 17,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -38,8 +38,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 24,
-      "movement": "-2",
+      "rank": 26,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
