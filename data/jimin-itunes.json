@@ -1,5 +1,5 @@
 {
-  "updatedAt": "14/06/2026, 17:12:09 KST",
+  "updatedAt": "14/06/2026, 20:27:35 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -47,7 +47,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 28,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -104,8 +104,8 @@
     {
       "title": "MUSE",
       "country": "Russia",
-      "rank": 189,
-      "movement": "-116",
+      "rank": 191,
+      "movement": "-114",
       "type": "album",
       "isTop1": false
     }
