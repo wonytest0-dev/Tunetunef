@@ -1,5 +1,5 @@
 {
-  "updatedAt": "17/06/2026, 21:55:01 KST",
+  "updatedAt": "18/06/2026, 01:37:03 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -72,7 +72,7 @@
     {
       "title": "MUSE",
       "country": "United Arab Emirates",
-      "rank": 9,
+      "rank": 11,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -95,6 +95,14 @@
     },
     {
       "title": "MUSE",
+      "country": "France",
+      "rank": 53,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
       "country": "Nepal",
       "rank": 64,
       "movement": "=",
@@ -111,16 +119,8 @@
     },
     {
       "title": "MUSE",
-      "country": "France",
-      "rank": 115,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
       "country": "Japan",
-      "rank": 139,
+      "rank": 158,
       "movement": "NE",
       "type": "album",
       "isTop1": false
