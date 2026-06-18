@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/06/2026, 04:24:23 KST",
+  "updatedAt": "19/06/2026, 07:03:25 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -73,7 +73,7 @@
       "title": "MUSE",
       "country": "United Arab Emirates",
       "rank": 20,
-      "movement": "-9",
+      "movement": "-5",
       "type": "album",
       "isTop1": false
     },
@@ -96,8 +96,8 @@
     {
       "title": "MUSE",
       "country": "Nepal",
-      "rank": 64,
-      "movement": "=",
+      "rank": 65,
+      "movement": "-1",
       "type": "album",
       "isTop1": false
     },
