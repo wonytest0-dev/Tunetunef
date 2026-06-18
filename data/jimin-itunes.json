@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19/06/2026, 01:26:24 KST",
-  "totalEntries": 14,
+  "updatedAt": "19/06/2026, 04:24:23 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
@@ -72,8 +72,8 @@
     {
       "title": "MUSE",
       "country": "United Arab Emirates",
-      "rank": 18,
-      "movement": "-7",
+      "rank": 20,
+      "movement": "-9",
       "type": "album",
       "isTop1": false
     },
@@ -88,7 +88,7 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 52,
+      "rank": 53,
       "movement": "-1",
       "type": "album",
       "isTop1": false
@@ -106,14 +106,6 @@
       "country": "Laos",
       "rank": 86,
       "movement": "=",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Japan",
-      "rank": 186,
-      "movement": "-28",
       "type": "album",
       "isTop1": false
     }
@@ -136,7 +128,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 6,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
