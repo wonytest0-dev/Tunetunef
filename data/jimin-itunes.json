@@ -1,13 +1,13 @@
 {
-  "updatedAt": "18/06/2026, 08:26:38 KST",
+  "updatedAt": "18/06/2026, 12:31:37 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Guinea-Bissau",
-      "rank": 15,
-      "movement": "-1",
+      "rank": 14,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -22,6 +22,14 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
+      "rank": 19,
+      "movement": "+1",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Guinea-Bissau",
       "rank": 20,
       "movement": "=",
       "type": "single",
@@ -29,9 +37,9 @@
     },
     {
       "title": "Like Crazy",
-      "country": "Guinea-Bissau",
-      "rank": 21,
-      "movement": "-1",
+      "country": "Cape Verde",
+      "rank": 28,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
@@ -39,14 +47,6 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 28,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
-      "country": "Cape Verde",
-      "rank": 29,
       "movement": "=",
       "type": "single",
       "isTop1": false
@@ -73,7 +73,7 @@
       "title": "MUSE",
       "country": "United Arab Emirates",
       "rank": 17,
-      "movement": "-10",
+      "movement": "-11",
       "type": "album",
       "isTop1": false
     },
@@ -88,8 +88,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 53,
-      "movement": "-2",
+      "rank": 51,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
@@ -112,7 +112,7 @@
     {
       "title": "MUSE",
       "country": "France",
-      "rank": 109,
+      "rank": 133,
       "movement": "NE",
       "type": "album",
       "isTop1": false
