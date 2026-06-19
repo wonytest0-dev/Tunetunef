@@ -1,22 +1,25 @@
-name: Update Jimin iTunes
+name: Update iTunes Data
 
 on:
-  schedule:
-    # tiap 1 jam
-    - cron: "0 * * * *"
-
   workflow_dispatch:
-
-permissions:
-  contents: write
+  schedule:
+    - cron: '0 * * * *' # Jalan setiap jam
 
 jobs:
-  update:
+  update-itunes:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repo
+      - name: Checkout Etalase (Publik)
         uses: actions/checkout@v4
+
+      - name: Checkout Dapur (Privat)
+        uses: actions/checkout@v4
+        with:
+          repository: wonytest0-dev/itunes-private # Pastikan nama repo sesuai
+          path: itunes-private
+          token: ${{ secrets.PRIVATE_REPO_PAT }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -24,21 +27,25 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
+        working-directory: itunes-private
         run: npm install
 
-      - name: Install Playwright browser
-        run: npx playwright install chromium
-
-      - name: Run scraper
-        run: node jimin-itunes.js
-
-      - name: Commit updated JSON
+      - name: Jalankan Scraper
+        working-directory: itunes-private
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Playwright butuh install browser
+          npx playwright install chromium
+          
+          # Jalankan skripmu
+          node jimin-itunes.js
+          
+          # Copy hasil JSON dari Dapur ke Etalase
+          cp data/jimin-itunes.json ../data/
 
+      - name: Commit dan Push ke Etalase
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/jimin-itunes.json
-
-          git diff --cached --quiet || git commit -m "auto update iTunes data"
-
+          git diff --staged --quiet || git commit -m "Update Jimin iTunes Data"
           git push
