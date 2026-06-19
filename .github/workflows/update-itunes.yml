@@ -19,7 +19,7 @@ jobs:
         with:
           repository: wonytest0-dev/itunes-private # Pastikan nama repo sesuai
           path: itunes-private
-          token: ${{ secrets.PRIVATE_REPO_PAT }}
+          token: ${{ secrets.PAT_ITUNES }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
