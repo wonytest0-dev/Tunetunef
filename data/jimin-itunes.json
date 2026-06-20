@@ -1,5 +1,5 @@
 {
-  "updatedAt": "20/06/2026, 14:09:30 KST",
+  "updatedAt": "20/06/2026, 17:48:54 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -39,7 +39,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 29,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -72,8 +72,8 @@
     {
       "title": "MUSE",
       "country": "United Arab Emirates",
-      "rank": 44,
-      "movement": "-20",
+      "rank": 45,
+      "movement": "-21",
       "type": "album",
       "isTop1": false
     },
@@ -103,17 +103,17 @@
     },
     {
       "title": "MUSE",
-      "country": "Mexico",
-      "rank": 75,
-      "movement": "NE",
+      "country": "Laos",
+      "rank": 85,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Laos",
-      "rank": 85,
-      "movement": "=",
+      "country": "Mexico",
+      "rank": 126,
+      "movement": "-103",
       "type": "album",
       "isTop1": false
     }
