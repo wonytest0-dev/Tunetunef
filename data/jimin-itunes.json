@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24/06/2026, 15:44:40 KST",
-  "totalEntries": 13,
+  "updatedAt": "24/06/2026, 19:20:01 KST",
+  "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
     {
@@ -100,14 +100,6 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Turkey",
-      "rank": 191,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
     }
   ],
   "summary": [
@@ -128,7 +120,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     }
