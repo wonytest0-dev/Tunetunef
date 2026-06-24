@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25/06/2026, 05:45:29 KST",
-  "totalEntries": 15,
+  "updatedAt": "25/06/2026, 07:13:17 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Kazakhstan",
-      "rank": 63,
+      "rank": 73,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -30,7 +30,7 @@
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 132,
+      "rank": 142,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -47,7 +47,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 24,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -63,7 +63,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 33,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -86,7 +86,7 @@
     {
       "title": "Be Mine",
       "country": "Kazakhstan",
-      "rank": 75,
+      "rank": 88,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -105,7 +105,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 51,
-      "movement": "=",
+      "movement": "+1",
       "type": "album",
       "isTop1": false
     },
@@ -122,6 +122,14 @@
       "country": "Laos",
       "rank": 85,
       "movement": "=",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Japan",
+      "rank": 185,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     }
@@ -151,7 +159,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
