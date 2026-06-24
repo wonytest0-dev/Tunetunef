@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24/06/2026, 08:05:41 KST",
-  "totalEntries": 12,
+  "updatedAt": "24/06/2026, 11:50:25 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
@@ -31,7 +31,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 24,
-      "movement": "-3",
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -47,7 +47,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 33,
-      "movement": "-3",
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -80,16 +80,16 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 52,
-      "movement": "-1",
+      "rank": 51,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
       "country": "Nepal",
-      "rank": 65,
-      "movement": "=",
+      "rank": 62,
+      "movement": "+3",
       "type": "album",
       "isTop1": false
     },
@@ -98,6 +98,14 @@
       "country": "Laos",
       "rank": 85,
       "movement": "=",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Turkey",
+      "rank": 143,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     }
@@ -120,7 +128,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
