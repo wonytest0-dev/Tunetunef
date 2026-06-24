@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/06/2026, 03:49:19 KST",
+  "updatedAt": "25/06/2026, 05:45:29 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Kazakhstan",
-      "rank": 52,
+      "rank": 63,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -30,7 +30,7 @@
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 108,
+      "rank": 132,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -86,7 +86,7 @@
     {
       "title": "Be Mine",
       "country": "Kazakhstan",
-      "rank": 62,
+      "rank": 75,
       "movement": "NE",
       "type": "single",
       "isTop1": false
