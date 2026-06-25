@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25/06/2026, 07:13:17 KST",
-  "totalEntries": 16,
+  "updatedAt": "25/06/2026, 09:06:35 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Kazakhstan",
-      "rank": 73,
+      "rank": 89,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -30,7 +30,7 @@
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 142,
+      "rank": 153,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -54,8 +54,8 @@
     {
       "title": "Like Crazy",
       "country": "Niger",
-      "rank": 30,
-      "movement": "=",
+      "rank": 31,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -80,14 +80,6 @@
       "country": "Micronesia",
       "rank": 52,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Kazakhstan",
-      "rank": 88,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     }
@@ -146,13 +138,6 @@
       "title": "Like Crazy",
       "type": "single",
       "totalEntries": 6,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
