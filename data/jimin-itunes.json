@@ -1,5 +1,5 @@
 {
-  "updatedAt": "27/06/2026, 13:49:51 KST",
+  "updatedAt": "27/06/2026, 16:46:12 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Colombia",
-      "rank": 74,
+      "rank": 108,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -112,8 +112,8 @@
     {
       "title": "MUSE",
       "country": "Thailand",
-      "rank": 121,
-      "movement": "-93",
+      "rank": 133,
+      "movement": "-102",
       "type": "album",
       "isTop1": false
     }
