@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01/07/2026, 04:49:17 KST",
-  "totalEntries": 15,
+  "updatedAt": "01/07/2026, 06:25:02 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
@@ -14,7 +14,7 @@
     {
       "title": "Who",
       "country": "Peru",
-      "rank": 22,
+      "rank": 26,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -79,17 +79,17 @@
   "albums": [
     {
       "title": "MUSE",
-      "country": "Kyrgyzstan",
+      "country": "Micronesia",
       "rank": 47,
-      "movement": "+2",
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Micronesia",
-      "rank": 47,
-      "movement": "=",
+      "country": "Kyrgyzstan",
+      "rank": 48,
+      "movement": "+1",
       "type": "album",
       "isTop1": false
     },
@@ -112,16 +112,8 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 96,
-      "movement": "-33",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Japan",
-      "rank": 142,
-      "movement": "NE",
+      "rank": 99,
+      "movement": "-34",
       "type": "album",
       "isTop1": false
     }
@@ -144,7 +136,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 6,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
