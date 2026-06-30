@@ -1,5 +1,5 @@
 {
-  "updatedAt": "01/07/2026, 02:03:05 KST",
+  "updatedAt": "01/07/2026, 04:49:17 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -14,7 +14,7 @@
     {
       "title": "Who",
       "country": "Peru",
-      "rank": 17,
+      "rank": 22,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -112,16 +112,16 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 88,
-      "movement": "-27",
+      "rank": 96,
+      "movement": "-33",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Hong Kong",
-      "rank": 180,
-      "movement": "-107",
+      "country": "Japan",
+      "rank": 142,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     }
