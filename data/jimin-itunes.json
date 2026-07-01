@@ -1,5 +1,5 @@
 {
-  "updatedAt": "02/07/2026, 06:24:02 KST",
+  "updatedAt": "02/07/2026, 08:10:05 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -22,8 +22,8 @@
     {
       "title": "Who",
       "country": "Peru",
-      "rank": 112,
-      "movement": "-86",
+      "rank": 116,
+      "movement": "-90",
       "type": "single",
       "isTop1": false
     },
