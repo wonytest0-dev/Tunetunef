@@ -1,5 +1,5 @@
 {
-  "updatedAt": "04/07/2026, 09:01:38 KST",
+  "updatedAt": "04/07/2026, 13:31:31 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Chile",
-      "rank": 85,
+      "rank": 96,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -79,7 +79,7 @@
   "albums": [
     {
       "title": "MUSE",
-      "country": "Micronesia",
+      "country": "Kyrgyzstan",
       "rank": 47,
       "movement": "=",
       "type": "album",
@@ -87,9 +87,9 @@
     },
     {
       "title": "MUSE",
-      "country": "Kyrgyzstan",
-      "rank": 49,
-      "movement": "-2",
+      "country": "Micronesia",
+      "rank": 47,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
