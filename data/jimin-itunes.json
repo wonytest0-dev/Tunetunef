@@ -1,5 +1,5 @@
 {
-  "updatedAt": "09/07/2026, 02:46:28 KST",
+  "updatedAt": "09/07/2026, 04:18:31 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -14,7 +14,7 @@
     {
       "title": "Who",
       "country": "Chile",
-      "rank": 33,
+      "rank": 36,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -80,8 +80,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 46,
-      "movement": "+1",
+      "rank": 47,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
