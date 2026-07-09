@@ -1,5 +1,5 @@
 {
-  "updatedAt": "09/07/2026, 19:21:07 KST",
+  "updatedAt": "09/07/2026, 22:46:14 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -22,8 +22,8 @@
     {
       "title": "Who",
       "country": "Chile",
-      "rank": 164,
-      "movement": "NE",
+      "rank": 191,
+      "movement": "-160",
       "type": "single",
       "isTop1": false
     },
