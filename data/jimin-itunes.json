@@ -1,5 +1,5 @@
 {
-  "updatedAt": "11/07/2026, 05:19:11 KST",
+  "updatedAt": "11/07/2026, 06:57:46 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -14,15 +14,7 @@
     {
       "title": "Who",
       "country": "Chile",
-      "rank": 35,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Kazakhstan",
-      "rank": 47,
+      "rank": 36,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -32,6 +24,14 @@
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Kazakhstan",
+      "rank": 58,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -63,7 +63,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 30,
-      "movement": "-2",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
