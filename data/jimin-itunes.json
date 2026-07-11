@@ -1,10 +1,10 @@
 {
-  "updatedAt": "11/07/2026, 16:09:02 KST",
-  "totalEntries": 16,
+  "updatedAt": "11/07/2026, 18:24:00 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Online Video",
+      "title": "Chart data visualizations",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "Online Video",
+      "title": "Chart data visualizations",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -20,34 +20,18 @@
       "isTop1": false
     },
     {
-      "title": "Online Video",
+      "title": "Chart data visualizations",
       "country": "Indonesia",
-      "rank": 63,
+      "rank": 91,
       "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
-      "title": "Online Video",
+      "title": "Chart data visualizations",
       "country": "Chile",
-      "rank": 84,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Online Video",
-      "country": "Kazakhstan",
-      "rank": 94,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Online Video",
-      "country": "Philippines",
-      "rank": 140,
-      "movement": "NE",
+      "rank": 177,
+      "movement": "-154",
       "type": "single",
       "isTop1": false
     },
@@ -136,9 +120,9 @@
   ],
   "summary": [
     {
-      "title": "Online Video",
+      "title": "Chart data visualizations",
       "type": "single",
-      "totalEntries": 6,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
