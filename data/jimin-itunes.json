@@ -1,10 +1,10 @@
 {
-  "updatedAt": "11/07/2026, 08:00:07 KST",
+  "updatedAt": "11/07/2026, 09:05:24 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Who",
+      "title": "Online Media",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,15 +12,15 @@
       "isTop1": false
     },
     {
-      "title": "Who",
+      "title": "Online Media",
       "country": "Chile",
-      "rank": 36,
+      "rank": 39,
       "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
-      "title": "Who",
+      "title": "Online Media",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -28,9 +28,9 @@
       "isTop1": false
     },
     {
-      "title": "Who",
+      "title": "Online Media",
       "country": "Kazakhstan",
-      "rank": 58,
+      "rank": 69,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -120,7 +120,7 @@
   ],
   "summary": [
     {
-      "title": "Who",
+      "title": "Online Media",
       "type": "single",
       "totalEntries": 4,
       "totalTop1": 0,
