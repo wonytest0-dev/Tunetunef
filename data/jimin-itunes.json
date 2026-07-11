@@ -1,10 +1,10 @@
 {
-  "updatedAt": "11/07/2026, 20:00:24 KST",
-  "totalEntries": 14,
+  "updatedAt": "11/07/2026, 20:59:03 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Data Management",
+      "title": "Artist performance tracking",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "Data Management",
+      "title": "Artist performance tracking",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -20,18 +20,10 @@
       "isTop1": false
     },
     {
-      "title": "Data Management",
+      "title": "Artist performance tracking",
       "country": "Indonesia",
-      "rank": 91,
+      "rank": 111,
       "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Data Management",
-      "country": "Chile",
-      "rank": 199,
-      "movement": "-176",
       "type": "single",
       "isTop1": false
     },
@@ -88,8 +80,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 46,
-      "movement": "-1",
+      "rank": 47,
+      "movement": "-2",
       "type": "album",
       "isTop1": false
     },
@@ -120,9 +112,9 @@
   ],
   "summary": [
     {
-      "title": "Data Management",
+      "title": "Artist performance tracking",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
