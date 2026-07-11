@@ -1,10 +1,10 @@
 {
-  "updatedAt": "12/07/2026, 06:44:06 KST",
+  "updatedAt": "12/07/2026, 07:42:48 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Music data subscription",
+      "title": "General Reference",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "Music data subscription",
+      "title": "General Reference",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -20,7 +20,7 @@
       "isTop1": false
     },
     {
-      "title": "Music data subscription",
+      "title": "General Reference",
       "country": "Indonesia",
       "rank": 79,
       "movement": "NE",
@@ -112,7 +112,7 @@
   ],
   "summary": [
     {
-      "title": "Music data subscription",
+      "title": "General Reference",
       "type": "single",
       "totalEntries": 3,
       "totalTop1": 0,
