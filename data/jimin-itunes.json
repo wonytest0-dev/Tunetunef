@@ -1,10 +1,10 @@
 {
-  "updatedAt": "11/07/2026, 09:05:24 KST",
-  "totalEntries": 14,
+  "updatedAt": "11/07/2026, 13:09:53 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Online Media",
+      "title": "Music marketing tools",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,15 +12,15 @@
       "isTop1": false
     },
     {
-      "title": "Online Media",
+      "title": "Music marketing tools",
       "country": "Chile",
-      "rank": 39,
+      "rank": 48,
       "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
-      "title": "Online Media",
+      "title": "Music marketing tools",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -28,9 +28,17 @@
       "isTop1": false
     },
     {
-      "title": "Online Media",
+      "title": "Music marketing tools",
       "country": "Kazakhstan",
-      "rank": 69,
+      "rank": 72,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Music marketing tools",
+      "country": "Philippines",
+      "rank": 112,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -89,7 +97,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 46,
-      "movement": "+1",
+      "movement": "-1",
       "type": "album",
       "isTop1": false
     },
@@ -120,9 +128,9 @@
   ],
   "summary": [
     {
-      "title": "Online Media",
+      "title": "Music marketing tools",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     },
