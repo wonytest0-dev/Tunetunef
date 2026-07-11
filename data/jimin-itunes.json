@@ -1,10 +1,10 @@
 {
-  "updatedAt": "12/07/2026, 00:51:48 KST",
+  "updatedAt": "12/07/2026, 01:52:18 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Music Videos",
+      "title": "Spotify playlist promotion",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "Music Videos",
+      "title": "Spotify playlist promotion",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -20,9 +20,9 @@
       "isTop1": false
     },
     {
-      "title": "Music Videos",
+      "title": "Spotify playlist promotion",
       "country": "Indonesia",
-      "rank": 162,
+      "rank": 178,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -112,7 +112,7 @@
   ],
   "summary": [
     {
-      "title": "Music Videos",
+      "title": "Spotify playlist promotion",
       "type": "single",
       "totalEntries": 3,
       "totalTop1": 0,
