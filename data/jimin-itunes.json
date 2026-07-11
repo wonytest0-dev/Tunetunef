@@ -1,10 +1,10 @@
 {
-  "updatedAt": "12/07/2026, 07:42:48 KST",
+  "updatedAt": "12/07/2026, 08:51:01 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "General Reference",
+      "title": "RADIO",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "General Reference",
+      "title": "RADIO",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -20,9 +20,9 @@
       "isTop1": false
     },
     {
-      "title": "General Reference",
+      "title": "RADIO",
       "country": "Indonesia",
-      "rank": 79,
+      "rank": 84,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -112,7 +112,7 @@
   ],
   "summary": [
     {
-      "title": "General Reference",
+      "title": "RADIO",
       "type": "single",
       "totalEntries": 3,
       "totalTop1": 0,
