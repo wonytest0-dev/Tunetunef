@@ -1,10 +1,10 @@
 {
-  "updatedAt": "11/07/2026, 18:24:00 KST",
+  "updatedAt": "11/07/2026, 20:00:24 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Chart data visualizations",
+      "title": "Data Management",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "Chart data visualizations",
+      "title": "Data Management",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -20,7 +20,7 @@
       "isTop1": false
     },
     {
-      "title": "Chart data visualizations",
+      "title": "Data Management",
       "country": "Indonesia",
       "rank": 91,
       "movement": "NE",
@@ -28,10 +28,10 @@
       "isTop1": false
     },
     {
-      "title": "Chart data visualizations",
+      "title": "Data Management",
       "country": "Chile",
-      "rank": 177,
-      "movement": "-154",
+      "rank": 199,
+      "movement": "-176",
       "type": "single",
       "isTop1": false
     },
@@ -120,7 +120,7 @@
   ],
   "summary": [
     {
-      "title": "Chart data visualizations",
+      "title": "Data Management",
       "type": "single",
       "totalEntries": 4,
       "totalTop1": 0,
