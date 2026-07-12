@@ -1,10 +1,10 @@
 {
-  "updatedAt": "12/07/2026, 19:23:33 KST",
+  "updatedAt": "12/07/2026, 20:56:02 KST",
   "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "General Reference",
+      "title": "Data Management",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "General Reference",
+      "title": "Data Management",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -80,7 +80,7 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 49,
+      "rank": 50,
       "movement": "-3",
       "type": "album",
       "isTop1": false
@@ -104,7 +104,7 @@
   ],
   "summary": [
     {
-      "title": "General Reference",
+      "title": "Data Management",
       "type": "single",
       "totalEntries": 2,
       "totalTop1": 0,
