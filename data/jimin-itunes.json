@@ -1,10 +1,10 @@
 {
-  "updatedAt": "13/07/2026, 07:42:39 KST",
-  "totalEntries": 13,
+  "updatedAt": "13/07/2026, 08:49:36 KST",
+  "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Music data subscription",
+      "title": "Dictionaries & Encyclopedias",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "Music data subscription",
+      "title": "Dictionaries & Encyclopedias",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -47,7 +47,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 29,
-      "movement": "+1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -100,19 +100,11 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Switzerland",
-      "rank": 188,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
     }
   ],
   "summary": [
     {
-      "title": "Music data subscription",
+      "title": "Dictionaries & Encyclopedias",
       "type": "single",
       "totalEntries": 2,
       "totalTop1": 0,
@@ -128,7 +120,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     }
