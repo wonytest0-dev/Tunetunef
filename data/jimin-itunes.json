@@ -1,6 +1,6 @@
 {
-  "updatedAt": "13/07/2026, 01:55:51 KST",
-  "totalEntries": 13,
+  "updatedAt": "13/07/2026, 02:57:28 KST",
+  "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
     {
@@ -16,14 +16,6 @@
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "How-To, DIY & Expert Content",
-      "country": "Netherlands",
-      "rank": 179,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -89,7 +81,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 50,
-      "movement": "-3",
+      "movement": "-1",
       "type": "album",
       "isTop1": false
     },
@@ -114,7 +106,7 @@
     {
       "title": "How-To, DIY & Expert Content",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
