@@ -1,10 +1,10 @@
 {
-  "updatedAt": "13/07/2026, 02:57:28 KST",
-  "totalEntries": 12,
+  "updatedAt": "13/07/2026, 04:07:01 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "How-To, DIY & Expert Content",
+      "title": "Data Management",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "How-To, DIY & Expert Content",
+      "title": "Data Management",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -100,11 +100,19 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Switzerland",
+      "rank": 158,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
     }
   ],
   "summary": [
     {
-      "title": "How-To, DIY & Expert Content",
+      "title": "Data Management",
       "type": "single",
       "totalEntries": 2,
       "totalTop1": 0,
@@ -120,7 +128,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
