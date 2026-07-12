@@ -1,10 +1,10 @@
 {
-  "updatedAt": "12/07/2026, 22:13:29 KST",
+  "updatedAt": "12/07/2026, 23:52:17 KST",
   "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Artist performance tracking",
+      "title": "Computer Science",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "Artist performance tracking",
+      "title": "Computer Science",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -104,7 +104,7 @@
   ],
   "summary": [
     {
-      "title": "Artist performance tracking",
+      "title": "Computer Science",
       "type": "single",
       "totalEntries": 2,
       "totalTop1": 0,
