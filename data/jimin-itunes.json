@@ -1,10 +1,10 @@
 {
-  "updatedAt": "12/07/2026, 14:53:12 KST",
+  "updatedAt": "12/07/2026, 17:09:48 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "data",
+      "title": "Artist management software",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "data",
+      "title": "Artist management software",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -20,9 +20,9 @@
       "isTop1": false
     },
     {
-      "title": "data",
+      "title": "Artist management software",
       "country": "Indonesia",
-      "rank": 125,
+      "rank": 169,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -112,7 +112,7 @@
   ],
   "summary": [
     {
-      "title": "data",
+      "title": "Artist management software",
       "type": "single",
       "totalEntries": 3,
       "totalTop1": 0,
