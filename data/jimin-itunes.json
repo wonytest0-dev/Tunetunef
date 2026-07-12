@@ -1,10 +1,10 @@
 {
-  "updatedAt": "13/07/2026, 04:07:01 KST",
+  "updatedAt": "13/07/2026, 05:39:47 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Data Management",
+      "title": "Video Software",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "Data Management",
+      "title": "Video Software",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -112,7 +112,7 @@
   ],
   "summary": [
     {
-      "title": "Data Management",
+      "title": "Video Software",
       "type": "single",
       "totalEntries": 2,
       "totalTop1": 0,
