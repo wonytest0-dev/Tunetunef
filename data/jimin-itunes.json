@@ -1,10 +1,10 @@
 {
-  "updatedAt": "14/07/2026, 06:52:23 KST",
-  "totalEntries": 12,
+  "updatedAt": "14/07/2026, 07:52:21 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "data",
+      "title": "Web Stats & Analytics",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "data",
+      "title": "Web Stats & Analytics",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -100,11 +100,19 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Japan",
+      "rank": 154,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
     }
   ],
   "summary": [
     {
-      "title": "data",
+      "title": "Web Stats & Analytics",
       "type": "single",
       "totalEntries": 2,
       "totalTop1": 0,
@@ -120,7 +128,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
