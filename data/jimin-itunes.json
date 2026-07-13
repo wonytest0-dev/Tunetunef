@@ -1,10 +1,10 @@
 {
-  "updatedAt": "13/07/2026, 08:49:36 KST",
-  "totalEntries": 12,
+  "updatedAt": "13/07/2026, 11:23:39 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Dictionaries & Encyclopedias",
+      "title": "Who",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,10 +12,18 @@
       "isTop1": false
     },
     {
-      "title": "Dictionaries & Encyclopedias",
+      "title": "Who",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Netherlands",
+      "rank": 96,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -80,8 +88,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 51,
-      "movement": "-2",
+      "rank": 49,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
@@ -104,9 +112,9 @@
   ],
   "summary": [
     {
-      "title": "Dictionaries & Encyclopedias",
+      "title": "Who",
       "type": "single",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
