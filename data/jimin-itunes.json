@@ -1,10 +1,10 @@
 {
-  "updatedAt": "14/07/2026, 03:40:52 KST",
-  "totalEntries": 13,
+  "updatedAt": "14/07/2026, 05:10:18 KST",
+  "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Online Video",
+      "title": "data",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "Online Video",
+      "title": "data",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -80,8 +80,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 50,
-      "movement": "=",
+      "rank": 51,
+      "movement": "-1",
       "type": "album",
       "isTop1": false
     },
@@ -100,19 +100,11 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Japan",
-      "rank": 192,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
     }
   ],
   "summary": [
     {
-      "title": "Online Video",
+      "title": "data",
       "type": "single",
       "totalEntries": 2,
       "totalTop1": 0,
@@ -128,7 +120,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     }
