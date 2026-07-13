@@ -1,10 +1,10 @@
 {
-  "updatedAt": "14/07/2026, 01:27:59 KST",
-  "totalEntries": 12,
+  "updatedAt": "14/07/2026, 03:40:52 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Artist profile pages",
+      "title": "Online Video",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,7 +12,7 @@
       "isTop1": false
     },
     {
-      "title": "Artist profile pages",
+      "title": "Online Video",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
@@ -100,11 +100,19 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Japan",
+      "rank": 192,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
     }
   ],
   "summary": [
     {
-      "title": "Artist profile pages",
+      "title": "Online Video",
       "type": "single",
       "totalEntries": 2,
       "totalTop1": 0,
@@ -120,7 +128,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
