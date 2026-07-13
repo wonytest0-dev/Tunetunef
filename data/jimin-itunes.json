@@ -1,10 +1,10 @@
 {
-  "updatedAt": "14/07/2026, 07:52:21 KST",
-  "totalEntries": 13,
+  "updatedAt": "14/07/2026, 08:50:59 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
-      "title": "Web Stats & Analytics",
+      "title": "Who",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
@@ -12,10 +12,18 @@
       "isTop1": false
     },
     {
-      "title": "Web Stats & Analytics",
+      "title": "Who",
       "country": "Gambia",
       "rank": 49,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 62,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -112,9 +120,9 @@
   ],
   "summary": [
     {
-      "title": "Web Stats & Analytics",
+      "title": "Who",
       "type": "single",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
