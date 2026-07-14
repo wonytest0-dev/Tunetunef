@@ -1,6 +1,6 @@
 {
-  "updatedAt": "14/07/2026, 22:24:19 KST",
-  "totalEntries": 13,
+  "updatedAt": "15/07/2026, 00:21:04 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
@@ -21,6 +21,14 @@
     },
     {
       "title": "Who",
+      "country": "Greece",
+      "rank": 35,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Gambia",
       "rank": 50,
       "movement": "-1",
@@ -30,8 +38,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 11,
-      "movement": "=",
+      "rank": 14,
+      "movement": "-3",
       "type": "single",
       "isTop1": false
     },
@@ -46,8 +54,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 20,
-      "movement": "=",
+      "rank": 23,
+      "movement": "-3",
       "type": "single",
       "isTop1": false
     },
@@ -114,7 +122,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
