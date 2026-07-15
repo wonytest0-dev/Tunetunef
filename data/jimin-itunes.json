@@ -1,5 +1,5 @@
 {
-  "updatedAt": "16/07/2026, 03:02:13 KST",
+  "updatedAt": "16/07/2026, 05:04:48 KST",
   "totalEntries": 20,
   "totalTop1": 0,
   "singles": [
@@ -37,14 +37,6 @@
     },
     {
       "title": "Who",
-      "country": "United Arab Emirates",
-      "rank": 20,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
       "country": "Latvia",
       "rank": 25,
       "movement": "-22",
@@ -53,8 +45,16 @@
     },
     {
       "title": "Who",
+      "country": "United Arab Emirates",
+      "rank": 25,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Ukraine",
-      "rank": 26,
+      "rank": 32,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -70,7 +70,7 @@
     {
       "title": "Who",
       "country": "Vietnam",
-      "rank": 129,
+      "rank": 144,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -128,7 +128,7 @@
     {
       "title": "MUSE",
       "country": "South Africa",
-      "rank": 27,
+      "rank": 38,
       "movement": "NE",
       "type": "album",
       "isTop1": false
