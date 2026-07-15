@@ -1,19 +1,19 @@
 {
-  "updatedAt": "15/07/2026, 19:45:05 KST",
+  "updatedAt": "15/07/2026, 21:11:17 KST",
   "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
-      "country": "United Arab Emirates",
-      "rank": 6,
+      "country": "Ecuador",
+      "rank": 9,
       "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Ecuador",
+      "country": "United Arab Emirates",
       "rank": 9,
       "movement": "NE",
       "type": "single",
@@ -38,8 +38,8 @@
     {
       "title": "Who",
       "country": "Latvia",
-      "rank": 15,
-      "movement": "NE",
+      "rank": 16,
+      "movement": "-13",
       "type": "single",
       "isTop1": false
     },
