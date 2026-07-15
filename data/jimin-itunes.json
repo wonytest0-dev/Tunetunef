@@ -1,28 +1,12 @@
 {
-  "updatedAt": "16/07/2026, 01:16:55 KST",
-  "totalEntries": 19,
+  "updatedAt": "16/07/2026, 03:02:13 KST",
+  "totalEntries": 20,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Brunei Darussalam",
       "rank": 6,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Ecuador",
-      "rank": 11,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "United Arab Emirates",
-      "rank": 12,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -38,7 +22,23 @@
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 17,
+      "rank": 14,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Ecuador",
+      "rank": 20,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "United Arab Emirates",
+      "rank": 20,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -46,8 +46,16 @@
     {
       "title": "Who",
       "country": "Latvia",
-      "rank": 22,
-      "movement": "-19",
+      "rank": 25,
+      "movement": "-22",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Ukraine",
+      "rank": 26,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -62,7 +70,7 @@
     {
       "title": "Who",
       "country": "Vietnam",
-      "rank": 100,
+      "rank": 129,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -162,7 +170,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 8,
+      "totalEntries": 9,
       "totalTop1": 0,
       "countriesTop1": []
     },
