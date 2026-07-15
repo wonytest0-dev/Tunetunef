@@ -1,12 +1,12 @@
 {
-  "updatedAt": "15/07/2026, 08:50:29 KST",
+  "updatedAt": "15/07/2026, 11:00:25 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Latvia",
-      "rank": 3,
+      "rank": 6,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -30,7 +30,7 @@
     {
       "title": "Who",
       "country": "Greece",
-      "rank": 64,
+      "rank": 98,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -38,8 +38,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 14,
-      "movement": "-3",
+      "rank": 13,
+      "movement": "-2",
       "type": "single",
       "isTop1": false
     },
@@ -54,8 +54,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 23,
-      "movement": "-3",
+      "rank": 22,
+      "movement": "-2",
       "type": "single",
       "isTop1": false
     },
@@ -87,17 +87,17 @@
   "albums": [
     {
       "title": "MUSE",
-      "country": "Micronesia",
+      "country": "Kyrgyzstan",
       "rank": 47,
-      "movement": "=",
+      "movement": "+4",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Kyrgyzstan",
-      "rank": 50,
-      "movement": "+1",
+      "country": "Micronesia",
+      "rank": 47,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
