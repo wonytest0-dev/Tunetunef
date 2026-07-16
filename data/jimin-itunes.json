@@ -1,12 +1,12 @@
 {
-  "updatedAt": "16/07/2026, 17:05:29 KST",
+  "updatedAt": "16/07/2026, 19:54:54 KST",
   "totalEntries": 20,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Brunei Darussalam",
-      "rank": 10,
+      "rank": 11,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -22,16 +22,16 @@
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 29,
-      "movement": "NE",
+      "rank": 34,
+      "movement": "-25",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 38,
-      "movement": "NE",
+      "rank": 43,
+      "movement": "-29",
       "type": "single",
       "isTop1": false
     },
@@ -39,7 +39,7 @@
       "title": "Who",
       "country": "Latvia",
       "rank": 43,
-      "movement": "-37",
+      "movement": "-28",
       "type": "single",
       "isTop1": false
     },
@@ -54,15 +54,15 @@
     {
       "title": "Who",
       "country": "United Arab Emirates",
-      "rank": 55,
-      "movement": "NE",
+      "rank": 75,
+      "movement": "-69",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Ukraine",
-      "rank": 70,
+      "rank": 99,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -120,7 +120,7 @@
     {
       "title": "MUSE",
       "country": "Thailand",
-      "rank": 4,
+      "rank": 8,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -137,7 +137,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 48,
-      "movement": "-1",
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
@@ -151,17 +151,17 @@
     },
     {
       "title": "MUSE",
-      "country": "South Africa",
-      "rank": 71,
-      "movement": "NE",
+      "country": "Laos",
+      "rank": 85,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Laos",
-      "rank": 85,
-      "movement": "=",
+      "country": "South Africa",
+      "rank": 86,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     }
