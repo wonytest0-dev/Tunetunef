@@ -1,16 +1,8 @@
 {
-  "updatedAt": "17/07/2026, 03:03:20 KST",
-  "totalEntries": 19,
+  "updatedAt": "17/07/2026, 04:59:50 KST",
+  "totalEntries": 20,
   "totalTop1": 0,
   "singles": [
-    {
-      "title": "Who",
-      "country": "Brunei Darussalam",
-      "rank": 13,
-      "movement": "-7",
-      "type": "single",
-      "isTop1": false
-    },
     {
       "title": "Who",
       "country": "Guinea-Bissau",
@@ -21,33 +13,25 @@
     },
     {
       "title": "Who",
-      "country": "Ecuador",
-      "rank": 37,
-      "movement": "-23",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 43,
-      "movement": "NE",
+      "country": "Brunei Darussalam",
+      "rank": 15,
+      "movement": "-9",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 46,
-      "movement": "-26",
+      "rank": 41,
+      "movement": "-27",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Latvia",
-      "rank": 49,
-      "movement": "-24",
+      "country": "Ecuador",
+      "rank": 50,
+      "movement": "-30",
       "type": "single",
       "isTop1": false
     },
@@ -56,6 +40,22 @@
       "country": "Gambia",
       "rank": 51,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 61,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Latvia",
+      "rank": 86,
+      "movement": "-61",
       "type": "single",
       "isTop1": false
     },
@@ -156,6 +156,14 @@
       "movement": "-73",
       "type": "album",
       "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Japan",
+      "rank": 186,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
     }
   ],
   "summary": [
@@ -176,7 +184,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 6,
+      "totalEntries": 7,
       "totalTop1": 0,
       "countriesTop1": []
     }
