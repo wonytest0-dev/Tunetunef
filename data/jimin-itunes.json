@@ -1,6 +1,6 @@
 {
-  "updatedAt": "16/07/2026, 23:57:12 KST",
-  "totalEntries": 20,
+  "updatedAt": "17/07/2026, 01:17:02 KST",
+  "totalEntries": 19,
   "totalTop1": 0,
   "singles": [
     {
@@ -21,17 +21,17 @@
     },
     {
       "title": "Who",
-      "country": "Philippines",
-      "rank": 30,
-      "movement": "NE",
+      "country": "Ecuador",
+      "rank": 34,
+      "movement": "-23",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Ecuador",
-      "rank": 34,
-      "movement": "-23",
+      "country": "Philippines",
+      "rank": 36,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -56,14 +56,6 @@
       "country": "Gambia",
       "rank": 51,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "United Arab Emirates",
-      "rank": 92,
-      "movement": "-80",
       "type": "single",
       "isTop1": false
     },
@@ -170,7 +162,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 8,
+      "totalEntries": 7,
       "totalTop1": 0,
       "countriesTop1": []
     },
