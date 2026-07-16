@@ -1,12 +1,12 @@
 {
-  "updatedAt": "16/07/2026, 08:55:56 KST",
+  "updatedAt": "16/07/2026, 11:21:06 KST",
   "totalEntries": 20,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Brunei Darussalam",
-      "rank": 6,
+      "rank": 7,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 17,
+      "rank": 18,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -30,7 +30,7 @@
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 26,
+      "rank": 27,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -38,15 +38,15 @@
     {
       "title": "Who",
       "country": "Latvia",
-      "rank": 31,
-      "movement": "-27",
+      "rank": 37,
+      "movement": "-31",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "United Arab Emirates",
-      "rank": 39,
+      "rank": 42,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -62,7 +62,7 @@
     {
       "title": "Who",
       "country": "Ukraine",
-      "rank": 53,
+      "rank": 59,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -70,7 +70,7 @@
     {
       "title": "Who",
       "country": "Vietnam",
-      "rank": 183,
+      "rank": 196,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -127,14 +127,6 @@
   "albums": [
     {
       "title": "MUSE",
-      "country": "South Africa",
-      "rank": 46,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
@@ -144,8 +136,16 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 49,
-      "movement": "+1",
+      "rank": 48,
+      "movement": "+2",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "South Africa",
+      "rank": 51,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     },
