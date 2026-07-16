@@ -1,5 +1,5 @@
 {
-  "updatedAt": "16/07/2026, 14:36:02 KST",
+  "updatedAt": "16/07/2026, 17:05:29 KST",
   "totalEntries": 20,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 18,
+      "rank": 29,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -30,7 +30,7 @@
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 27,
+      "rank": 38,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -38,16 +38,8 @@
     {
       "title": "Who",
       "country": "Latvia",
-      "rank": 41,
-      "movement": "-35",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "United Arab Emirates",
-      "rank": 45,
-      "movement": "NE",
+      "rank": 43,
+      "movement": "-37",
       "type": "single",
       "isTop1": false
     },
@@ -55,22 +47,22 @@
       "title": "Who",
       "country": "Gambia",
       "rank": 51,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Ukraine",
-      "rank": 60,
+      "country": "United Arab Emirates",
+      "rank": 55,
       "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Vietnam",
-      "rank": 200,
+      "country": "Ukraine",
+      "rank": 70,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -127,6 +119,14 @@
   "albums": [
     {
       "title": "MUSE",
+      "country": "Thailand",
+      "rank": 4,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
@@ -143,17 +143,17 @@
     },
     {
       "title": "MUSE",
-      "country": "South Africa",
-      "rank": 52,
-      "movement": "NE",
+      "country": "Nepal",
+      "rank": 62,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Nepal",
-      "rank": 62,
-      "movement": "=",
+      "country": "South Africa",
+      "rank": 71,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     },
@@ -170,7 +170,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 9,
+      "totalEntries": 8,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -184,7 +184,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
