@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18/07/2026, 03:01:30 KST",
-  "totalEntries": 17,
+  "updatedAt": "18/07/2026, 05:02:42 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -14,8 +14,8 @@
     {
       "title": "Who",
       "country": "Brunei Darussalam",
-      "rank": 18,
-      "movement": "-5",
+      "rank": 23,
+      "movement": "-10",
       "type": "single",
       "isTop1": false
     },
@@ -87,16 +87,16 @@
   "albums": [
     {
       "title": "MUSE",
-      "country": "Kyrgyzstan",
+      "country": "Micronesia",
       "rank": 47,
-      "movement": "+1",
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Micronesia",
-      "rank": 47,
+      "country": "Kyrgyzstan",
+      "rank": 48,
       "movement": "=",
       "type": "album",
       "isTop1": false
@@ -112,8 +112,8 @@
     {
       "title": "MUSE",
       "country": "Thailand",
-      "rank": 70,
-      "movement": "-49",
+      "rank": 72,
+      "movement": "-51",
       "type": "album",
       "isTop1": false
     },
@@ -127,17 +127,9 @@
     },
     {
       "title": "MUSE",
-      "country": "Spain",
-      "rank": 181,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "South Africa",
-      "rank": 199,
-      "movement": "-94",
+      "country": "Japan",
+      "rank": 189,
+      "movement": "-3",
       "type": "album",
       "isTop1": false
     }
@@ -160,7 +152,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 7,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
