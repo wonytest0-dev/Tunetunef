@@ -1,5 +1,5 @@
 {
-  "updatedAt": "17/07/2026, 23:39:27 KST",
+  "updatedAt": "18/07/2026, 01:11:30 KST",
   "totalEntries": 19,
   "totalTop1": 0,
   "singles": [
@@ -29,8 +29,16 @@
     },
     {
       "title": "Who",
+      "country": "Ecuador",
+      "rank": 89,
+      "movement": "-55",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Ukraine",
-      "rank": 79,
+      "rank": 97,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -38,16 +46,8 @@
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 87,
-      "movement": "-53",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Ecuador",
-      "rank": 96,
-      "movement": "-53",
+      "rank": 98,
+      "movement": "-55",
       "type": "single",
       "isTop1": false
     },
