@@ -1,6 +1,6 @@
 {
-  "updatedAt": "17/07/2026, 14:37:53 KST",
-  "totalEntries": 19,
+  "updatedAt": "17/07/2026, 17:02:24 KST",
+  "totalEntries": 20,
   "totalTop1": 0,
   "singles": [
     {
@@ -15,7 +15,15 @@
       "title": "Who",
       "country": "Brunei Darussalam",
       "rank": 16,
-      "movement": "-8",
+      "movement": "-6",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Ukraine",
+      "rank": 34,
+      "movement": "+33",
       "type": "single",
       "isTop1": false
     },
@@ -30,23 +38,23 @@
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 61,
-      "movement": "-32",
+      "rank": 78,
+      "movement": "-49",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 70,
-      "movement": "-32",
+      "rank": 87,
+      "movement": "-49",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 81,
+      "rank": 149,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -69,17 +77,17 @@
     },
     {
       "title": "Like Crazy",
-      "country": "Niger",
-      "rank": 29,
-      "movement": "=",
+      "country": "Cape Verde",
+      "rank": 30,
+      "movement": "-8",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
-      "country": "Cape Verde",
-      "rank": 30,
-      "movement": "-8",
+      "country": "Niger",
+      "rank": 31,
+      "movement": "-2",
       "type": "single",
       "isTop1": false
     },
@@ -135,14 +143,6 @@
     },
     {
       "title": "MUSE",
-      "country": "Spain",
-      "rank": 75,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
       "country": "Laos",
       "rank": 85,
       "movement": "=",
@@ -151,9 +151,17 @@
     },
     {
       "title": "MUSE",
+      "country": "Spain",
+      "rank": 104,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
       "country": "South Africa",
-      "rank": 147,
-      "movement": "-95",
+      "rank": 156,
+      "movement": "-104",
       "type": "album",
       "isTop1": false
     }
@@ -162,7 +170,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 6,
+      "totalEntries": 7,
       "totalTop1": 0,
       "countriesTop1": []
     },
