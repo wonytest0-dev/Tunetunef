@@ -1,5 +1,5 @@
 {
-  "updatedAt": "18/07/2026, 06:48:16 KST",
+  "updatedAt": "18/07/2026, 07:44:11 KST",
   "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
@@ -30,8 +30,8 @@
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 92,
-      "movement": "-37",
+      "rank": 94,
+      "movement": "-39",
       "type": "single",
       "isTop1": false
     },
@@ -128,7 +128,7 @@
     {
       "title": "MUSE",
       "country": "Japan",
-      "rank": 199,
+      "rank": 200,
       "movement": "NE",
       "type": "album",
       "isTop1": false
