@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18/07/2026, 07:44:11 KST",
-  "totalEntries": 16,
+  "updatedAt": "18/07/2026, 08:48:44 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
@@ -15,7 +15,7 @@
       "title": "Who",
       "country": "Brunei Darussalam",
       "rank": 23,
-      "movement": "-8",
+      "movement": "-7",
       "type": "single",
       "isTop1": false
     },
@@ -124,14 +124,6 @@
       "movement": "-64",
       "type": "album",
       "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Japan",
-      "rank": 200,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
     }
   ],
   "summary": [
@@ -152,7 +144,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 6,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
