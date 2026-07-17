@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18/07/2026, 01:11:30 KST",
-  "totalEntries": 19,
+  "updatedAt": "18/07/2026, 03:01:30 KST",
+  "totalEntries": 17,
   "totalTop1": 0,
   "singles": [
     {
@@ -15,7 +15,7 @@
       "title": "Who",
       "country": "Brunei Darussalam",
       "rank": 18,
-      "movement": "-6",
+      "movement": "-5",
       "type": "single",
       "isTop1": false
     },
@@ -30,23 +30,7 @@
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 89,
-      "movement": "-55",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Ukraine",
-      "rank": 97,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Ecuador",
-      "rank": 98,
+      "rank": 92,
       "movement": "-55",
       "type": "single",
       "isTop1": false
@@ -63,7 +47,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 21,
-      "movement": "-8",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -71,7 +55,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 30,
-      "movement": "-8",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -120,16 +104,16 @@
     {
       "title": "MUSE",
       "country": "Nepal",
-      "rank": 62,
-      "movement": "=",
+      "rank": 61,
+      "movement": "+1",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
       "country": "Thailand",
-      "rank": 64,
-      "movement": "-45",
+      "rank": 70,
+      "movement": "-49",
       "type": "album",
       "isTop1": false
     },
@@ -144,7 +128,7 @@
     {
       "title": "MUSE",
       "country": "Spain",
-      "rank": 156,
+      "rank": 181,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -152,7 +136,7 @@
     {
       "title": "MUSE",
       "country": "South Africa",
-      "rank": 190,
+      "rank": 199,
       "movement": "-94",
       "type": "album",
       "isTop1": false
@@ -162,7 +146,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 6,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
