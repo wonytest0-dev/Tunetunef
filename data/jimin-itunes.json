@@ -1,5 +1,5 @@
 {
-  "updatedAt": "17/07/2026, 08:55:16 KST",
+  "updatedAt": "17/07/2026, 11:13:13 KST",
   "totalEntries": 19,
   "totalTop1": 0,
   "singles": [
@@ -30,23 +30,23 @@
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 55,
-      "movement": "-38",
+      "rank": 61,
+      "movement": "-44",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Ecuador",
-      "rank": 64,
-      "movement": "-38",
+      "rank": 70,
+      "movement": "-44",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 77,
+      "rank": 81,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -111,6 +111,14 @@
     },
     {
       "title": "MUSE",
+      "country": "Kyrgyzstan",
+      "rank": 47,
+      "movement": "+2",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
@@ -119,25 +127,17 @@
     },
     {
       "title": "MUSE",
-      "country": "Kyrgyzstan",
-      "rank": 48,
-      "movement": "+1",
+      "country": "Nepal",
+      "rank": 62,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
       "country": "Spain",
-      "rank": 56,
+      "rank": 75,
       "movement": "NE",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Nepal",
-      "rank": 62,
-      "movement": "=",
       "type": "album",
       "isTop1": false
     },
