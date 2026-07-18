@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18/07/2026, 19:58:52 KST",
-  "totalEntries": 14,
+  "updatedAt": "18/07/2026, 20:56:01 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
@@ -74,6 +74,14 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Malaysia",
+      "rank": 71,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
     }
   ],
   "albums": [
@@ -113,7 +121,7 @@
       "title": "MUSE",
       "country": "Thailand",
       "rank": 115,
-      "movement": "-65",
+      "movement": "-58",
       "type": "album",
       "isTop1": false
     }
@@ -129,7 +137,7 @@
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 6,
+      "totalEntries": 7,
       "totalTop1": 0,
       "countriesTop1": []
     },
