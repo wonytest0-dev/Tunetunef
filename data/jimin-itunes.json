@@ -1,5 +1,5 @@
 {
-  "updatedAt": "18/07/2026, 23:47:41 KST",
+  "updatedAt": "19/07/2026, 00:52:16 KST",
   "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
@@ -14,8 +14,8 @@
     {
       "title": "Who",
       "country": "Brunei Darussalam",
-      "rank": 29,
-      "movement": "-13",
+      "rank": 30,
+      "movement": "-12",
       "type": "single",
       "isTop1": false
     },
@@ -30,7 +30,7 @@
     {
       "title": "Who",
       "country": "Russia",
-      "rank": 119,
+      "rank": 132,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -86,7 +86,7 @@
     {
       "title": "Like Crazy",
       "country": "Malaysia",
-      "rank": 92,
+      "rank": 107,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -128,8 +128,8 @@
     {
       "title": "MUSE",
       "country": "Thailand",
-      "rank": 122,
-      "movement": "-65",
+      "rank": 128,
+      "movement": "-64",
       "type": "album",
       "isTop1": false
     }
