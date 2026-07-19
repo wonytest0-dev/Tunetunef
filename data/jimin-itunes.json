@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/07/2026, 22:07:16 KST",
+  "updatedAt": "19/07/2026, 23:51:18 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -14,8 +14,8 @@
     {
       "title": "Who",
       "country": "Brunei Darussalam",
-      "rank": 37,
-      "movement": "-8",
+      "rank": 41,
+      "movement": "-11",
       "type": "single",
       "isTop1": false
     },
@@ -80,7 +80,7 @@
     {
       "title": "MUSE",
       "country": "South Africa",
-      "rank": 15,
+      "rank": 39,
       "movement": "NE",
       "type": "album",
       "isTop1": false
