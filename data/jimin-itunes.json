@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19/07/2026, 14:47:30 KST",
-  "totalEntries": 16,
+  "updatedAt": "19/07/2026, 17:09:18 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
@@ -15,7 +15,7 @@
       "title": "Who",
       "country": "Brunei Darussalam",
       "rank": 32,
-      "movement": "-9",
+      "movement": "-8",
       "type": "single",
       "isTop1": false
     },
@@ -24,14 +24,6 @@
       "country": "Gambia",
       "rank": 51,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Malaysia",
-      "rank": 187,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -82,14 +74,6 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
-      "country": "Malaysia",
-      "rank": 183,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
     }
   ],
   "albums": [
@@ -138,14 +122,14 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 7,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     },
