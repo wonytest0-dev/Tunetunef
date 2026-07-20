@@ -1,5 +1,5 @@
 {
-  "updatedAt": "21/07/2026, 06:07:29 KST",
+  "updatedAt": "21/07/2026, 07:55:32 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -112,8 +112,8 @@
     {
       "title": "MUSE",
       "country": "South Africa",
-      "rank": 113,
-      "movement": "-42",
+      "rank": 135,
+      "movement": "-64",
       "type": "album",
       "isTop1": false
     }
