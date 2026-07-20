@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20/07/2026, 11:57:21 KST",
-  "totalEntries": 15,
+  "updatedAt": "20/07/2026, 15:13:18 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -8,14 +8,6 @@
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Brunei Darussalam",
-      "rank": 44,
-      "movement": "-14",
       "type": "single",
       "isTop1": false
     },
@@ -29,8 +21,24 @@
     },
     {
       "title": "Who",
+      "country": "Brunei Darussalam",
+      "rank": 53,
+      "movement": "-21",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Russia",
-      "rank": 90,
+      "rank": 100,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 122,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -120,8 +128,8 @@
     {
       "title": "MUSE",
       "country": "South Africa",
-      "rank": 92,
-      "movement": "-87",
+      "rank": 97,
+      "movement": "-92",
       "type": "album",
       "isTop1": false
     }
@@ -130,7 +138,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     },
