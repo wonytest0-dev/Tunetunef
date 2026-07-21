@@ -1,5 +1,5 @@
 {
-  "updatedAt": "21/07/2026, 11:13:03 KST",
+  "updatedAt": "21/07/2026, 14:45:52 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -22,16 +22,16 @@
     {
       "title": "Who",
       "country": "Brunei Darussalam",
-      "rank": 58,
-      "movement": "-12",
+      "rank": 57,
+      "movement": "-11",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Russia",
-      "rank": 87,
-      "movement": "-1",
+      "rank": 110,
+      "movement": "-10",
       "type": "single",
       "isTop1": false
     },
@@ -89,7 +89,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 47,
-      "movement": "-2",
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
@@ -120,8 +120,8 @@
     {
       "title": "MUSE",
       "country": "South Africa",
-      "rank": 152,
-      "movement": "-70",
+      "rank": 155,
+      "movement": "-58",
       "type": "album",
       "isTop1": false
     }
