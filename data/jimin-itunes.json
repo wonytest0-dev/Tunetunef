@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22/07/2026, 06:03:10 KST",
-  "totalEntries": 16,
+  "updatedAt": "22/07/2026, 07:51:38 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
@@ -14,7 +14,7 @@
     {
       "title": "Who",
       "country": "Romania",
-      "rank": 41,
+      "rank": 44,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -88,7 +88,7 @@
     {
       "title": "MUSE",
       "country": "Singapore",
-      "rank": 10,
+      "rank": 16,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -124,14 +124,6 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "South Africa",
-      "rank": 194,
-      "movement": "-81",
-      "type": "album",
-      "isTop1": false
     }
   ],
   "summary": [
@@ -152,7 +144,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 6,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
