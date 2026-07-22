@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22/07/2026, 11:10:58 KST",
+  "updatedAt": "22/07/2026, 14:45:01 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Romania",
-      "rank": 57,
+      "rank": 61,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -31,7 +31,7 @@
       "title": "Who",
       "country": "Brunei Darussalam",
       "rank": 68,
-      "movement": "-11",
+      "movement": "-10",
       "type": "single",
       "isTop1": false
     },
@@ -88,7 +88,7 @@
     {
       "title": "MUSE",
       "country": "Singapore",
-      "rank": 16,
+      "rank": 17,
       "movement": "NE",
       "type": "album",
       "isTop1": false
