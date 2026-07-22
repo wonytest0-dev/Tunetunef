@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22/07/2026, 17:21:01 KST",
+  "updatedAt": "22/07/2026, 20:05:01 KST",
   "totalEntries": 17,
   "totalTop1": 0,
   "singles": [
@@ -13,14 +13,6 @@
     },
     {
       "title": "Who",
-      "country": "Chile",
-      "rank": 39,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
       "country": "Gambia",
       "rank": 51,
       "movement": "=",
@@ -29,17 +21,25 @@
     },
     {
       "title": "Who",
-      "country": "Brunei Darussalam",
-      "rank": 71,
-      "movement": "-13",
+      "country": "Chile",
+      "rank": 64,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Romania",
-      "rank": 71,
+      "rank": 73,
       "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Brunei Darussalam",
+      "rank": 74,
+      "movement": "-16",
       "type": "single",
       "isTop1": false
     },
@@ -77,14 +77,6 @@
     },
     {
       "title": "Like Crazy",
-      "country": "Vietnam",
-      "rank": 47,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
       "country": "Micronesia",
       "rank": 51,
       "movement": "=",
@@ -98,13 +90,21 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Vietnam",
+      "rank": 79,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
     }
   ],
   "albums": [
     {
       "title": "MUSE",
       "country": "Singapore",
-      "rank": 21,
+      "rank": 26,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -120,8 +120,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 48,
-      "movement": "=",
+      "rank": 49,
+      "movement": "-1",
       "type": "album",
       "isTop1": false
     },
