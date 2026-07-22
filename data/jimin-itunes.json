@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22/07/2026, 14:45:01 KST",
-  "totalEntries": 15,
+  "updatedAt": "22/07/2026, 17:21:01 KST",
+  "totalEntries": 17,
   "totalTop1": 0,
   "singles": [
     {
@@ -8,6 +8,14 @@
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Chile",
+      "rank": 39,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -21,17 +29,17 @@
     },
     {
       "title": "Who",
-      "country": "Romania",
-      "rank": 61,
-      "movement": "NE",
+      "country": "Brunei Darussalam",
+      "rank": 71,
+      "movement": "-13",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Brunei Darussalam",
-      "rank": 68,
-      "movement": "-10",
+      "country": "Romania",
+      "rank": 71,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -69,6 +77,14 @@
     },
     {
       "title": "Like Crazy",
+      "country": "Vietnam",
+      "rank": 47,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
       "country": "Micronesia",
       "rank": 51,
       "movement": "=",
@@ -88,7 +104,7 @@
     {
       "title": "MUSE",
       "country": "Singapore",
-      "rank": 17,
+      "rank": 21,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -105,7 +121,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 48,
-      "movement": "-1",
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
@@ -130,14 +146,14 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     },
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 6,
+      "totalEntries": 7,
       "totalTop1": 0,
       "countriesTop1": []
     },
