@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/07/2026, 06:01:34 KST",
+  "updatedAt": "23/07/2026, 07:57:25 KST",
   "totalEntries": 18,
   "totalTop1": 0,
   "singles": [
@@ -30,7 +30,7 @@
     {
       "title": "Who",
       "country": "Kazakhstan",
-      "rank": 61,
+      "rank": 70,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -38,16 +38,16 @@
     {
       "title": "Who",
       "country": "Brunei Darussalam",
-      "rank": 79,
-      "movement": "-11",
+      "rank": 82,
+      "movement": "-14",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Romania",
-      "rank": 155,
-      "movement": "-111",
+      "rank": 174,
+      "movement": "-130",
       "type": "single",
       "isTop1": false
     },
@@ -98,17 +98,17 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
-      "country": "Vietnam",
-      "rank": 172,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
     }
   ],
   "albums": [
+    {
+      "title": "MUSE",
+      "country": "Philippines",
+      "rank": 6,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
+    },
     {
       "title": "MUSE",
       "country": "Micronesia",
@@ -119,17 +119,17 @@
     },
     {
       "title": "MUSE",
-      "country": "Singapore",
-      "rank": 47,
-      "movement": "-36",
+      "country": "Kyrgyzstan",
+      "rank": 50,
+      "movement": "-2",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Kyrgyzstan",
-      "rank": 50,
-      "movement": "-2",
+      "country": "Singapore",
+      "rank": 52,
+      "movement": "-41",
       "type": "album",
       "isTop1": false
     },
@@ -161,14 +161,14 @@
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 7,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     },
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
