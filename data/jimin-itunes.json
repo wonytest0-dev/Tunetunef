@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22/07/2026, 20:05:01 KST",
+  "updatedAt": "22/07/2026, 22:41:23 KST",
   "totalEntries": 17,
   "totalTop1": 0,
   "singles": [
@@ -22,14 +22,6 @@
     {
       "title": "Who",
       "country": "Chile",
-      "rank": 64,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Romania",
       "rank": 73,
       "movement": "NE",
       "type": "single",
@@ -38,8 +30,16 @@
     {
       "title": "Who",
       "country": "Brunei Darussalam",
-      "rank": 74,
+      "rank": 75,
       "movement": "-16",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Romania",
+      "rank": 87,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -94,7 +94,7 @@
     {
       "title": "Like Crazy",
       "country": "Vietnam",
-      "rank": 79,
+      "rank": 108,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -104,7 +104,7 @@
     {
       "title": "MUSE",
       "country": "Singapore",
-      "rank": 26,
+      "rank": 28,
       "movement": "NE",
       "type": "album",
       "isTop1": false
