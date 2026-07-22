@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22/07/2026, 08:53:21 KST",
+  "updatedAt": "22/07/2026, 11:10:58 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Romania",
-      "rank": 56,
+      "rank": 57,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -30,8 +30,8 @@
     {
       "title": "Who",
       "country": "Brunei Darussalam",
-      "rank": 69,
-      "movement": "-12",
+      "rank": 68,
+      "movement": "-11",
       "type": "single",
       "isTop1": false
     },
@@ -53,15 +53,15 @@
     },
     {
       "title": "Like Crazy",
-      "country": "Cape Verde",
-      "rank": 31,
-      "movement": "=",
+      "country": "Niger",
+      "rank": 29,
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
-      "country": "Niger",
+      "country": "Cape Verde",
       "rank": 31,
       "movement": "=",
       "type": "single",
