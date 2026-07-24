@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24/07/2026, 11:34:13 KST",
-  "totalEntries": 14,
+  "updatedAt": "24/07/2026, 14:46:15 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
@@ -72,8 +72,8 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 44,
-      "movement": "-38",
+      "rank": 46,
+      "movement": "-40",
       "type": "album",
       "isTop1": false
     },
@@ -108,14 +108,6 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Singapore",
-      "rank": 100,
-      "movement": "-48",
-      "type": "album",
-      "isTop1": false
     }
   ],
   "summary": [
@@ -136,7 +128,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 6,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
