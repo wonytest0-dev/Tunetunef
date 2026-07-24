@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25/07/2026, 05:17:13 KST",
-  "totalEntries": 13,
+  "updatedAt": "25/07/2026, 07:01:26 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
@@ -8,6 +8,14 @@
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Chile",
+      "rank": 19,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -81,7 +89,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 49,
-      "movement": "+2",
+      "movement": "+3",
       "type": "album",
       "isTop1": false
     },
@@ -96,8 +104,8 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 66,
-      "movement": "-36",
+      "rank": 67,
+      "movement": "-26",
       "type": "album",
       "isTop1": false
     },
@@ -114,7 +122,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
