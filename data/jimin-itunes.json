@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/07/2026, 08:59:22 KST",
+  "updatedAt": "25/07/2026, 12:21:11 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -30,7 +30,7 @@
     {
       "title": "Who",
       "country": "Indonesia",
-      "rank": 160,
+      "rank": 171,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -87,17 +87,17 @@
   "albums": [
     {
       "title": "MUSE",
-      "country": "Micronesia",
+      "country": "Kyrgyzstan",
       "rank": 47,
-      "movement": "=",
+      "movement": "+2",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Kyrgyzstan",
-      "rank": 49,
-      "movement": "+3",
+      "country": "Micronesia",
+      "rank": 47,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
@@ -112,7 +112,7 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 69,
+      "rank": 73,
       "movement": "-27",
       "type": "album",
       "isTop1": false
