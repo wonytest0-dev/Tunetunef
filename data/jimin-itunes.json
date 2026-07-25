@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/07/2026, 22:51:42 KST",
+  "updatedAt": "25/07/2026, 23:58:55 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Chile",
-      "rank": 143,
+      "rank": 144,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -113,7 +113,7 @@
       "title": "MUSE",
       "country": "Philippines",
       "rank": 99,
-      "movement": "-41",
+      "movement": "-35",
       "type": "album",
       "isTop1": false
     }
