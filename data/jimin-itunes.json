@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26/07/2026, 01:07:16 KST",
-  "totalEntries": 14,
+  "updatedAt": "26/07/2026, 02:55:17 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Chile",
-      "rank": 144,
+      "rank": 147,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -79,9 +79,9 @@
   "albums": [
     {
       "title": "MUSE",
-      "country": "Kyrgyzstan",
-      "rank": 47,
-      "movement": "+2",
+      "country": "Spain",
+      "rank": 2,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     },
@@ -90,6 +90,14 @@
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Kyrgyzstan",
+      "rank": 48,
+      "movement": "+1",
       "type": "album",
       "isTop1": false
     },
@@ -112,8 +120,8 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 104,
-      "movement": "-40",
+      "rank": 107,
+      "movement": "-41",
       "type": "album",
       "isTop1": false
     }
@@ -136,7 +144,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
