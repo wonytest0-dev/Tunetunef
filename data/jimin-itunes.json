@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26/07/2026, 20:59:41 KST",
-  "totalEntries": 15,
+  "updatedAt": "26/07/2026, 22:43:14 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -21,8 +21,16 @@
     },
     {
       "title": "Who",
+      "country": "Philippines",
+      "rank": 69,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Hong Kong",
-      "rank": 132,
+      "rank": 173,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -80,7 +88,7 @@
     {
       "title": "MUSE",
       "country": "Spain",
-      "rank": 9,
+      "rank": 13,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -120,8 +128,8 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 135,
-      "movement": "-43",
+      "rank": 138,
+      "movement": "-46",
       "type": "album",
       "isTop1": false
     }
@@ -130,7 +138,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
