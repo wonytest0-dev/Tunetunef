@@ -1,12 +1,12 @@
 {
-  "updatedAt": "28/07/2026, 03:21:37 KST",
-  "totalEntries": 15,
+  "updatedAt": "28/07/2026, 05:19:12 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Estonia",
-      "rank": 2,
+      "rank": 3,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -120,8 +120,16 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 173,
-      "movement": "-22",
+      "rank": 175,
+      "movement": "-24",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Japan",
+      "rank": 194,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     }
@@ -144,7 +152,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
