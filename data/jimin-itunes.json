@@ -1,12 +1,12 @@
 {
-  "updatedAt": "28/07/2026, 07:02:02 KST",
-  "totalEntries": 15,
+  "updatedAt": "28/07/2026, 08:59:02 KST",
+  "totalEntries": 17,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Estonia",
-      "rank": 4,
+      "rank": 8,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -30,7 +30,15 @@
     {
       "title": "Who",
       "country": "Colombia",
-      "rank": 53,
+      "rank": 57,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Spain",
+      "rank": 170,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -82,6 +90,14 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Philippines",
+      "rank": 122,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
     }
   ],
   "albums": [
@@ -120,8 +136,8 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 186,
-      "movement": "-34",
+      "rank": 187,
+      "movement": "-35",
       "type": "album",
       "isTop1": false
     }
@@ -130,14 +146,14 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     },
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 6,
+      "totalEntries": 7,
       "totalTop1": 0,
       "countriesTop1": []
     },
