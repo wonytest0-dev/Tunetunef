@@ -1,12 +1,12 @@
 {
-  "updatedAt": "28/07/2026, 08:59:02 KST",
-  "totalEntries": 17,
+  "updatedAt": "28/07/2026, 11:53:30 KST",
+  "totalEntries": 18,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Estonia",
-      "rank": 8,
+      "rank": 10,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -22,15 +22,15 @@
     {
       "title": "Who",
       "country": "Gambia",
-      "rank": 51,
-      "movement": "=",
+      "rank": 49,
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Colombia",
-      "rank": 57,
+      "rank": 58,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -38,7 +38,7 @@
     {
       "title": "Who",
       "country": "Spain",
-      "rank": 170,
+      "rank": 180,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -55,7 +55,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 22,
-      "movement": "+3",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -71,7 +71,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 31,
-      "movement": "+3",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -94,7 +94,7 @@
     {
       "title": "Like Crazy",
       "country": "Philippines",
-      "rank": 122,
+      "rank": 123,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -112,8 +112,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 51,
-      "movement": "-3",
+      "rank": 49,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
@@ -135,9 +135,17 @@
     },
     {
       "title": "MUSE",
+      "country": "Russia",
+      "rank": 105,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
       "country": "Philippines",
       "rank": 187,
-      "movement": "-35",
+      "movement": "-29",
       "type": "album",
       "isTop1": false
     }
@@ -160,7 +168,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
