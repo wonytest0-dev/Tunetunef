@@ -1,21 +1,21 @@
 {
-  "updatedAt": "28/07/2026, 17:26:52 KST",
-  "totalEntries": 17,
+  "updatedAt": "28/07/2026, 20:13:32 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
-    {
-      "title": "Who",
-      "country": "Estonia",
-      "rank": 12,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
     {
       "title": "Who",
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Estonia",
+      "rank": 16,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -30,7 +30,7 @@
     {
       "title": "Who",
       "country": "Colombia",
-      "rank": 138,
+      "rank": 166,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -82,14 +82,6 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
-      "country": "Philippines",
-      "rank": 186,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
     }
   ],
   "albums": [
@@ -111,17 +103,17 @@
     },
     {
       "title": "MUSE",
-      "country": "Russia",
-      "rank": 58,
-      "movement": "NE",
+      "country": "Nepal",
+      "rank": 61,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Nepal",
-      "rank": 61,
-      "movement": "=",
+      "country": "Russia",
+      "rank": 64,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     },
@@ -136,8 +128,8 @@
     {
       "title": "MUSE",
       "country": "Philippines",
-      "rank": 188,
-      "movement": "-25",
+      "rank": 192,
+      "movement": "-29",
       "type": "album",
       "isTop1": false
     }
@@ -153,7 +145,7 @@
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 7,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     },
