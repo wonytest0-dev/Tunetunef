@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29/07/2026, 05:13:14 KST",
-  "totalEntries": 18,
+  "updatedAt": "29/07/2026, 06:59:36 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -8,14 +8,6 @@
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Estonia",
-      "rank": 42,
-      "movement": "-40",
       "type": "single",
       "isTop1": false
     },
@@ -29,24 +21,24 @@
     },
     {
       "title": "Who",
+      "country": "Estonia",
+      "rank": 51,
+      "movement": "-47",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "France",
-      "rank": 123,
+      "rank": 149,
       "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Colombia",
-      "rank": 184,
-      "movement": "-137",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
       "country": "Russia",
-      "rank": 188,
+      "rank": 197,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -113,7 +105,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 50,
-      "movement": "=",
+      "movement": "+1",
       "type": "album",
       "isTop1": false
     },
@@ -136,16 +128,8 @@
     {
       "title": "MUSE",
       "country": "Russia",
-      "rank": 112,
+      "rank": 121,
       "movement": "NE",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Philippines",
-      "rank": 196,
-      "movement": "-21",
       "type": "album",
       "isTop1": false
     }
@@ -154,7 +138,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 6,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -168,7 +152,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 6,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
