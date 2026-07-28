@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29/07/2026, 06:59:36 KST",
-  "totalEntries": 16,
+  "updatedAt": "29/07/2026, 08:06:40 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
@@ -31,14 +31,6 @@
       "title": "Who",
       "country": "France",
       "rank": 149,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Russia",
-      "rank": 197,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -138,7 +130,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
