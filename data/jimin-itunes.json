@@ -1,5 +1,5 @@
 {
-  "updatedAt": "28/07/2026, 14:43:07 KST",
+  "updatedAt": "28/07/2026, 17:26:52 KST",
   "totalEntries": 17,
   "totalTop1": 0,
   "singles": [
@@ -30,7 +30,7 @@
     {
       "title": "Who",
       "country": "Colombia",
-      "rank": 88,
+      "rank": 138,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -86,7 +86,7 @@
     {
       "title": "Like Crazy",
       "country": "Philippines",
-      "rank": 136,
+      "rank": 186,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -112,7 +112,7 @@
     {
       "title": "MUSE",
       "country": "Russia",
-      "rank": 56,
+      "rank": 58,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -137,7 +137,7 @@
       "title": "MUSE",
       "country": "Philippines",
       "rank": 188,
-      "movement": "-27",
+      "movement": "-25",
       "type": "album",
       "isTop1": false
     }
