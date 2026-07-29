@@ -1,5 +1,5 @@
 {
-  "updatedAt": "29/07/2026, 17:32:52 KST",
+  "updatedAt": "29/07/2026, 20:21:36 KST",
   "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
@@ -8,14 +8,6 @@
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "France",
-      "rank": 43,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -31,14 +23,22 @@
       "title": "Who",
       "country": "Estonia",
       "rank": 67,
-      "movement": "-55",
+      "movement": "-51",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Vietnam",
+      "rank": 75,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "France",
-      "rank": 191,
+      "rank": 83,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -128,8 +128,8 @@
     {
       "title": "MUSE",
       "country": "Russia",
-      "rank": 155,
-      "movement": "-91",
+      "rank": 166,
+      "movement": "-102",
       "type": "album",
       "isTop1": false
     }
