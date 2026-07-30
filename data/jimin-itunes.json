@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31/07/2026, 00:48:48 KST",
-  "totalEntries": 14,
+  "updatedAt": "31/07/2026, 02:21:54 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
@@ -21,8 +21,16 @@
     },
     {
       "title": "Who",
+      "country": "Vietnam",
+      "rank": 73,
+      "movement": "+68",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Romania",
-      "rank": 74,
+      "rank": 93,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -80,7 +88,7 @@
     {
       "title": "MUSE",
       "country": "Taiwan",
-      "rank": 21,
+      "rank": 30,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -122,7 +130,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
