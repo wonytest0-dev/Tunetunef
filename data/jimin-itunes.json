@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30/07/2026, 20:48:22 KST",
-  "totalEntries": 14,
+  "updatedAt": "30/07/2026, 22:49:06 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Romania",
-      "rank": 54,
+      "rank": 66,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -74,13 +74,29 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Turkey",
+      "rank": 198,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Turkey",
+      "rank": 199,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
     }
   ],
   "albums": [
     {
       "title": "MUSE",
       "country": "Taiwan",
-      "rank": 18,
+      "rank": 21,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -97,7 +113,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 54,
-      "movement": "-1",
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
@@ -129,7 +145,7 @@
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 6,
+      "totalEntries": 8,
       "totalTop1": 0,
       "countriesTop1": []
     },
