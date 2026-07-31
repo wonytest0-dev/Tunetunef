@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01/08/2026, 04:18:07 KST",
-  "totalEntries": 16,
+  "updatedAt": "01/08/2026, 06:00:04 KST",
+  "totalEntries": 17,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,15 +22,23 @@
     {
       "title": "Who",
       "country": "Romania",
-      "rank": 126,
-      "movement": "-10",
+      "rank": 146,
+      "movement": "+11",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Colombia",
-      "rank": 149,
+      "rank": 160,
+      "movement": "-138",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Mexico",
+      "rank": 165,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -88,7 +96,15 @@
     {
       "title": "MUSE",
       "country": "Russia",
-      "rank": 20,
+      "rank": 26,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Brazil",
+      "rank": 39,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -124,21 +140,13 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "France",
-      "rank": 199,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
     }
   ],
   "summary": [
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     },
