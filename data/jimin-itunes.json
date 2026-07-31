@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31/07/2026, 15:07:44 KST",
+  "updatedAt": "31/07/2026, 18:40:04 KST",
   "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
@@ -14,16 +14,8 @@
     {
       "title": "Who",
       "country": "Romania",
-      "rank": 25,
-      "movement": "+26",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Colombia",
-      "rank": 46,
-      "movement": "NE",
+      "rank": 39,
+      "movement": "+15",
       "type": "single",
       "isTop1": false
     },
@@ -37,8 +29,16 @@
     },
     {
       "title": "Who",
+      "country": "Colombia",
+      "rank": 122,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Vietnam",
-      "rank": 138,
+      "rank": 180,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -46,8 +46,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 15,
-      "movement": "=",
+      "rank": 16,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -62,8 +62,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 24,
-      "movement": "=",
+      "rank": 25,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -111,17 +111,17 @@
     },
     {
       "title": "MUSE",
-      "country": "Taiwan",
-      "rank": 57,
-      "movement": "NE",
+      "country": "Nepal",
+      "rank": 61,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Nepal",
-      "rank": 61,
-      "movement": "=",
+      "country": "Taiwan",
+      "rank": 77,
+      "movement": "-59",
       "type": "album",
       "isTop1": false
     },
