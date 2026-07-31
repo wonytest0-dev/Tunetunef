@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31/07/2026, 18:40:04 KST",
-  "totalEntries": 16,
+  "updatedAt": "31/07/2026, 20:55:14 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
@@ -8,14 +8,6 @@
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Romania",
-      "rank": 39,
-      "movement": "+15",
       "type": "single",
       "isTop1": false
     },
@@ -29,16 +21,16 @@
     },
     {
       "title": "Who",
-      "country": "Colombia",
-      "rank": 122,
-      "movement": "NE",
+      "country": "Romania",
+      "rank": 60,
+      "movement": "+6",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Vietnam",
-      "rank": 180,
+      "country": "Colombia",
+      "rank": 134,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -120,8 +112,8 @@
     {
       "title": "MUSE",
       "country": "Taiwan",
-      "rank": 77,
-      "movement": "-59",
+      "rank": 82,
+      "movement": "-64",
       "type": "album",
       "isTop1": false
     },
@@ -138,7 +130,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
