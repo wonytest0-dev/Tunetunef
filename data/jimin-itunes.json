@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31/07/2026, 08:01:17 KST",
+  "updatedAt": "31/07/2026, 11:24:29 KST",
   "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
@@ -14,15 +14,15 @@
     {
       "title": "Who",
       "country": "Romania",
-      "rank": 20,
-      "movement": "NE",
+      "rank": 23,
+      "movement": "+15",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Colombia",
-      "rank": 22,
+      "rank": 26,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -38,8 +38,8 @@
     {
       "title": "Who",
       "country": "Vietnam",
-      "rank": 118,
-      "movement": "+49",
+      "rank": 120,
+      "movement": "+80",
       "type": "single",
       "isTop1": false
     },
@@ -47,7 +47,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 15,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -63,7 +63,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 24,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -95,17 +95,17 @@
   "albums": [
     {
       "title": "MUSE",
-      "country": "Taiwan",
-      "rank": 43,
-      "movement": "NE",
+      "country": "Micronesia",
+      "rank": 47,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Micronesia",
-      "rank": 47,
-      "movement": "=",
+      "country": "Taiwan",
+      "rank": 48,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     },
