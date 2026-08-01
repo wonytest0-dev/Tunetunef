@@ -1,5 +1,5 @@
 {
-  "updatedAt": "01/08/2026, 18:02:10 KST",
+  "updatedAt": "01/08/2026, 20:13:10 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -112,7 +112,7 @@
     {
       "title": "MUSE",
       "country": "Japan",
-      "rank": 89,
+      "rank": 126,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -120,7 +120,7 @@
     {
       "title": "MUSE",
       "country": "Brazil",
-      "rank": 120,
+      "rank": 136,
       "movement": "NE",
       "type": "album",
       "isTop1": false
