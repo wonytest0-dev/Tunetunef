@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01/08/2026, 08:58:09 KST",
-  "totalEntries": 15,
+  "updatedAt": "01/08/2026, 12:14:13 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
@@ -20,18 +20,10 @@
       "isTop1": false
     },
     {
-      "title": "Who",
-      "country": "Romania",
-      "rank": 188,
-      "movement": "-168",
-      "type": "single",
-      "isTop1": false
-    },
-    {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 16,
-      "movement": "-1",
+      "rank": 15,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -46,8 +38,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 25,
-      "movement": "-1",
+      "rank": 24,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -80,15 +72,7 @@
     {
       "title": "MUSE",
       "country": "Russia",
-      "rank": 31,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Brazil",
-      "rank": 45,
+      "rank": 32,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -104,8 +88,16 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 57,
-      "movement": "-3",
+      "rank": 55,
+      "movement": "-1",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Brazil",
+      "rank": 56,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     },
@@ -120,8 +112,8 @@
     {
       "title": "MUSE",
       "country": "Laos",
-      "rank": 85,
-      "movement": "=",
+      "rank": 86,
+      "movement": "-1",
       "type": "album",
       "isTop1": false
     }
@@ -130,7 +122,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
