@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01/08/2026, 22:08:48 KST",
-  "totalEntries": 15,
+  "updatedAt": "01/08/2026, 23:56:32 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -8,6 +8,14 @@
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 45,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -72,8 +80,8 @@
     {
       "title": "MUSE",
       "country": "Russia",
-      "rank": 10,
-      "movement": "NE",
+      "rank": 13,
+      "movement": "-3",
       "type": "album",
       "isTop1": false
     },
@@ -88,8 +96,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 55,
-      "movement": "-1",
+      "rank": 60,
+      "movement": "-6",
       "type": "album",
       "isTop1": false
     },
@@ -111,16 +119,16 @@
     },
     {
       "title": "MUSE",
-      "country": "Japan",
-      "rank": 126,
+      "country": "Brazil",
+      "rank": 163,
       "movement": "NE",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Brazil",
-      "rank": 136,
+      "country": "Japan",
+      "rank": 167,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -130,7 +138,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
