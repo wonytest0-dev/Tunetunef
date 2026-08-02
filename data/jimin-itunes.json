@@ -1,5 +1,5 @@
 {
-  "updatedAt": "03/08/2026, 04:14:22 KST",
+  "updatedAt": "03/08/2026, 05:49:24 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -87,14 +87,6 @@
     },
     {
       "title": "MUSE",
-      "country": "Russia",
-      "rank": 47,
-      "movement": "-39",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
       "country": "Nepal",
       "rank": 61,
       "movement": "=",
@@ -105,7 +97,15 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 62,
-      "movement": "-2",
+      "movement": "=",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Russia",
+      "rank": 66,
+      "movement": "-58",
       "type": "album",
       "isTop1": false
     },
@@ -121,7 +121,7 @@
       "title": "MUSE",
       "country": "Japan",
       "rank": 166,
-      "movement": "-9",
+      "movement": "+5",
       "type": "album",
       "isTop1": false
     }
