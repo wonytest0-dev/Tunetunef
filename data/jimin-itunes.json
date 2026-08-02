@@ -1,5 +1,5 @@
 {
-  "updatedAt": "02/08/2026, 19:36:46 KST",
+  "updatedAt": "02/08/2026, 20:59:01 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -72,8 +72,8 @@
     {
       "title": "MUSE",
       "country": "Russia",
-      "rank": 11,
-      "movement": "+25",
+      "rank": 16,
+      "movement": "-6",
       "type": "album",
       "isTop1": false
     },
@@ -112,8 +112,8 @@
     {
       "title": "MUSE",
       "country": "Japan",
-      "rank": 127,
-      "movement": "-24",
+      "rank": 145,
+      "movement": "-19",
       "type": "album",
       "isTop1": false
     }
