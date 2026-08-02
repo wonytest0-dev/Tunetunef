@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03/08/2026, 02:58:12 KST",
-  "totalEntries": 14,
+  "updatedAt": "03/08/2026, 04:14:22 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
@@ -8,6 +8,14 @@
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Hungary",
+      "rank": 44,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -112,8 +120,8 @@
     {
       "title": "MUSE",
       "country": "Japan",
-      "rank": 130,
-      "movement": "+27",
+      "rank": 166,
+      "movement": "-9",
       "type": "album",
       "isTop1": false
     }
@@ -122,7 +130,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
