@@ -1,5 +1,5 @@
 {
-  "updatedAt": "02/08/2026, 14:52:27 KST",
+  "updatedAt": "02/08/2026, 17:14:32 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -21,8 +21,8 @@
     },
     {
       "title": "Who",
-      "country": "Indonesia",
-      "rank": 163,
+      "country": "Brazil",
+      "rank": 148,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -54,8 +54,8 @@
     {
       "title": "Like Crazy",
       "country": "Niger",
-      "rank": 40,
-      "movement": "-1",
+      "rank": 38,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
@@ -120,8 +120,8 @@
     {
       "title": "MUSE",
       "country": "Japan",
-      "rank": 138,
-      "movement": "-45",
+      "rank": 98,
+      "movement": "-5",
       "type": "album",
       "isTop1": false
     }
