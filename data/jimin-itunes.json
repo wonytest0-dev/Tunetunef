@@ -1,5 +1,5 @@
 {
-  "updatedAt": "03/08/2026, 15:17:15 KST",
+  "updatedAt": "03/08/2026, 19:38:24 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -21,8 +21,16 @@
     },
     {
       "title": "Who",
+      "country": "Indonesia",
+      "rank": 66,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Hungary",
-      "rank": 90,
+      "rank": 98,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -55,7 +63,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 38,
-      "movement": "+2",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -96,8 +104,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 64,
-      "movement": "-3",
+      "rank": 65,
+      "movement": "-4",
       "type": "album",
       "isTop1": false
     },
@@ -112,16 +120,8 @@
     {
       "title": "MUSE",
       "country": "Russia",
-      "rank": 116,
-      "movement": "-107",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Japan",
-      "rank": 200,
-      "movement": "-83",
+      "rank": 126,
+      "movement": "-115",
       "type": "album",
       "isTop1": false
     }
@@ -130,7 +130,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -144,7 +144,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 6,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
