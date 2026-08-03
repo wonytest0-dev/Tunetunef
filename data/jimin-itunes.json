@@ -1,5 +1,5 @@
 {
-  "updatedAt": "03/08/2026, 19:38:24 KST",
+  "updatedAt": "03/08/2026, 22:37:26 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -22,15 +22,7 @@
     {
       "title": "Who",
       "country": "Indonesia",
-      "rank": 66,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Hungary",
-      "rank": 98,
+      "rank": 106,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -120,8 +112,16 @@
     {
       "title": "MUSE",
       "country": "Russia",
-      "rank": 126,
-      "movement": "-115",
+      "rank": 143,
+      "movement": "-127",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Japan",
+      "rank": 173,
+      "movement": "-28",
       "type": "album",
       "isTop1": false
     }
@@ -130,7 +130,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -144,7 +144,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
