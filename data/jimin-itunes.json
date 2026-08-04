@@ -1,5 +1,5 @@
 {
-  "updatedAt": "05/08/2026, 02:41:52 KST",
+  "updatedAt": "05/08/2026, 04:25:15 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Malaysia",
-      "rank": 84,
+      "rank": 122,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -80,7 +80,7 @@
     {
       "title": "MUSE",
       "country": "Thailand",
-      "rank": 16,
+      "rank": 20,
       "movement": "NE",
       "type": "album",
       "isTop1": false
