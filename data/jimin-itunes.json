@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06/08/2026, 17:27:28 KST",
-  "totalEntries": 15,
+  "updatedAt": "06/08/2026, 20:17:46 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -14,7 +14,7 @@
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 27,
+      "rank": 41,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -53,17 +53,17 @@
     },
     {
       "title": "Like Crazy",
-      "country": "Philippines",
-      "rank": 26,
-      "movement": "NE",
+      "country": "Niger",
+      "rank": 40,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
-      "country": "Niger",
+      "country": "Philippines",
       "rank": 40,
-      "movement": "=",
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -80,6 +80,14 @@
       "country": "Micronesia",
       "rank": 52,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "India",
+      "rank": 183,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     }
@@ -120,8 +128,8 @@
     {
       "title": "MUSE",
       "country": "Thailand",
-      "rank": 112,
-      "movement": "-82",
+      "rank": 120,
+      "movement": "-90",
       "type": "album",
       "isTop1": false
     }
@@ -137,7 +145,7 @@
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 7,
+      "totalEntries": 8,
       "totalTop1": 0,
       "countriesTop1": []
     },
