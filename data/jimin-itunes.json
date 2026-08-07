@@ -1,5 +1,5 @@
 {
-  "updatedAt": "08/08/2026, 01:49:11 KST",
+  "updatedAt": "08/08/2026, 02:44:22 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -14,7 +14,7 @@
     {
       "title": "Who",
       "country": "Kazakhstan",
-      "rank": 44,
+      "rank": 47,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -88,7 +88,7 @@
     {
       "title": "MUSE",
       "country": "Mexico",
-      "rank": 56,
+      "rank": 57,
       "movement": "NE",
       "type": "album",
       "isTop1": false
