@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07/08/2026, 20:41:48 KST",
-  "totalEntries": 12,
+  "updatedAt": "07/08/2026, 21:53:13 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
@@ -8,6 +8,14 @@
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Kazakhstan",
+      "rank": 39,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -100,13 +108,21 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Mexico",
+      "rank": 117,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
     }
   ],
   "summary": [
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -120,7 +136,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
