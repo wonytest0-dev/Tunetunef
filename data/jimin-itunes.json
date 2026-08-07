@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07/08/2026, 14:36:58 KST",
-  "totalEntries": 16,
+  "updatedAt": "07/08/2026, 16:07:42 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
@@ -16,22 +16,6 @@
       "country": "Gambia",
       "rank": 53,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 168,
-      "movement": "-146",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Indonesia",
-      "rank": 196,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -82,14 +66,6 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
-      "country": "Philippines",
-      "rank": 167,
-      "movement": "-146",
-      "type": "single",
-      "isTop1": false
     }
   ],
   "albums": [
@@ -138,14 +114,14 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 7,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     },
