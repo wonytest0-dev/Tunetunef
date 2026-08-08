@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09/08/2026, 05:23:16 KST",
-  "totalEntries": 14,
+  "updatedAt": "09/08/2026, 06:24:55 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Malaysia",
-      "rank": 109,
+      "rank": 113,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -74,14 +74,6 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Philippines",
-      "rank": 194,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
     }
   ],
   "albums": [
@@ -130,13 +122,6 @@
       "title": "Like Crazy",
       "type": "single",
       "totalEntries": 6,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
