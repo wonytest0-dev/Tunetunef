@@ -1,5 +1,5 @@
 {
-  "updatedAt": "08/08/2026, 16:44:48 KST",
+  "updatedAt": "08/08/2026, 17:34:38 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Ukraine",
-      "rank": 79,
+      "rank": 81,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -54,8 +54,8 @@
     {
       "title": "Like Crazy",
       "country": "Niger",
-      "rank": 40,
-      "movement": "=",
+      "rank": 38,
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
