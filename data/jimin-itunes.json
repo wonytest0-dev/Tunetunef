@@ -1,5 +1,5 @@
 {
-  "updatedAt": "09/08/2026, 02:24:49 KST",
+  "updatedAt": "09/08/2026, 03:30:04 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -78,7 +78,7 @@
     {
       "title": "Be Mine",
       "country": "Philippines",
-      "rank": 174,
+      "rank": 184,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -105,7 +105,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 73,
-      "movement": "-5",
+      "movement": "-4",
       "type": "album",
       "isTop1": false
     },
