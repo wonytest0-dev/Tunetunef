@@ -1,5 +1,5 @@
 {
-  "updatedAt": "09/08/2026, 17:36:22 KST",
+  "updatedAt": "09/08/2026, 18:34:22 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -22,8 +22,8 @@
     {
       "title": "Who",
       "country": "Malaysia",
-      "rank": 195,
-      "movement": "NE",
+      "rank": 196,
+      "movement": "-157",
       "type": "single",
       "isTop1": false
     },
