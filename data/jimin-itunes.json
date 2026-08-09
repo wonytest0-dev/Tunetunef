@@ -1,6 +1,6 @@
 {
-  "updatedAt": "10/08/2026, 02:27:06 KST",
-  "totalEntries": 13,
+  "updatedAt": "10/08/2026, 03:33:43 KST",
+  "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
     {
@@ -16,14 +16,6 @@
       "country": "Gambia",
       "rank": 54,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Hong Kong",
-      "rank": 186,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -114,7 +106,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
