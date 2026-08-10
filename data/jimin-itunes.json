@@ -1,5 +1,5 @@
 {
-  "updatedAt": "10/08/2026, 16:22:23 KST",
+  "updatedAt": "10/08/2026, 18:14:34 KST",
   "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
@@ -47,7 +47,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 40,
-      "movement": "-2",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
