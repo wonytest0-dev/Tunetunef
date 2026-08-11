@@ -1,5 +1,5 @@
 {
-  "updatedAt": "11/08/2026, 08:30:04 KST",
+  "updatedAt": "11/08/2026, 10:18:55 KST",
   "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
@@ -89,7 +89,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 67,
-      "movement": "+3",
+      "movement": "-1",
       "type": "album",
       "isTop1": false
     },
