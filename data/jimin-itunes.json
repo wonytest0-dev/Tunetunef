@@ -1,5 +1,5 @@
 {
-  "updatedAt": "12/08/2026, 20:53:22 KST",
+  "updatedAt": "12/08/2026, 21:58:19 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -120,8 +120,8 @@
     {
       "title": "MUSE",
       "country": "Mexico",
-      "rank": 148,
-      "movement": "-120",
+      "rank": 156,
+      "movement": "-128",
       "type": "album",
       "isTop1": false
     }
