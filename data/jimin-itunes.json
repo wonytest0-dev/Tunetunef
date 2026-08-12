@@ -1,5 +1,5 @@
 {
-  "updatedAt": "12/08/2026, 08:34:51 KST",
+  "updatedAt": "12/08/2026, 10:27:45 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -14,8 +14,8 @@
     {
       "title": "Who",
       "country": "Gambia",
-      "rank": 53,
-      "movement": "+1",
+      "rank": 52,
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
@@ -80,7 +80,7 @@
     {
       "title": "MUSE",
       "country": "Mexico",
-      "rank": 41,
+      "rank": 45,
       "movement": "NE",
       "type": "album",
       "isTop1": false
