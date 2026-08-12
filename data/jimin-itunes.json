@@ -1,5 +1,5 @@
 {
-  "updatedAt": "13/08/2026, 00:55:01 KST",
+  "updatedAt": "13/08/2026, 01:53:10 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -80,7 +80,7 @@
     {
       "title": "MUSE",
       "country": "Singapore",
-      "rank": 40,
+      "rank": 42,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -104,8 +104,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 68,
-      "movement": "-2",
+      "rank": 69,
+      "movement": "-3",
       "type": "album",
       "isTop1": false
     },
@@ -120,8 +120,8 @@
     {
       "title": "MUSE",
       "country": "Mexico",
-      "rank": 156,
-      "movement": "-125",
+      "rank": 163,
+      "movement": "-132",
       "type": "album",
       "isTop1": false
     }
