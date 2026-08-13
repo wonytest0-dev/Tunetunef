@@ -1,5 +1,5 @@
 {
-  "updatedAt": "13/08/2026, 17:16:47 KST",
+  "updatedAt": "13/08/2026, 18:59:04 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Indonesia",
-      "rank": 75,
+      "rank": 108,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -104,16 +104,8 @@
     {
       "title": "MUSE",
       "country": "Singapore",
-      "rank": 66,
-      "movement": "-43",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Mexico",
-      "rank": 77,
-      "movement": "-16",
+      "rank": 69,
+      "movement": "-45",
       "type": "album",
       "isTop1": false
     },
@@ -122,6 +114,14 @@
       "country": "Laos",
       "rank": 88,
       "movement": "=",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Mexico",
+      "rank": 125,
+      "movement": "-57",
       "type": "album",
       "isTop1": false
     }
