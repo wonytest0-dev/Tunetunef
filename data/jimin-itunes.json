@@ -1,5 +1,5 @@
 {
-  "updatedAt": "13/08/2026, 10:29:29 KST",
+  "updatedAt": "13/08/2026, 13:06:56 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -15,14 +15,14 @@
       "title": "Who",
       "country": "Gambia",
       "rank": 52,
-      "movement": "+1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Chile",
-      "rank": 106,
+      "rank": 111,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -30,8 +30,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 15,
-      "movement": "=",
+      "rank": 14,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
@@ -46,8 +46,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 24,
-      "movement": "=",
+      "rank": 23,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
@@ -55,7 +55,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 29,
-      "movement": "+11",
+      "movement": "+3",
       "type": "single",
       "isTop1": false
     },
@@ -80,8 +80,8 @@
     {
       "title": "MUSE",
       "country": "Mexico",
-      "rank": 13,
-      "movement": "+28",
+      "rank": 15,
+      "movement": "+32",
       "type": "album",
       "isTop1": false
     },
@@ -95,6 +95,14 @@
     },
     {
       "title": "MUSE",
+      "country": "Singapore",
+      "rank": 60,
+      "movement": "-39",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
       "country": "Nepal",
       "rank": 61,
       "movement": "=",
@@ -103,17 +111,9 @@
     },
     {
       "title": "MUSE",
-      "country": "Singapore",
-      "rank": 61,
-      "movement": "-43",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 69,
-      "movement": "-3",
+      "rank": 66,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
