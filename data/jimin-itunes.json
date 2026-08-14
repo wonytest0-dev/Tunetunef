@@ -1,5 +1,5 @@
 {
-  "updatedAt": "14/08/2026, 17:11:18 KST",
+  "updatedAt": "14/08/2026, 18:55:49 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -13,14 +13,6 @@
     },
     {
       "title": "Who",
-      "country": "Indonesia",
-      "rank": 39,
-      "movement": "+69",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
       "country": "Gambia",
       "rank": 52,
       "movement": "=",
@@ -29,8 +21,16 @@
     },
     {
       "title": "Who",
+      "country": "Indonesia",
+      "rank": 56,
+      "movement": "+52",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Romania",
-      "rank": 78,
+      "rank": 87,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -63,7 +63,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 30,
-      "movement": "-1",
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
