@@ -1,6 +1,6 @@
 {
-  "updatedAt": "14/08/2026, 08:36:09 KST",
-  "totalEntries": 14,
+  "updatedAt": "14/08/2026, 10:28:26 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
@@ -87,6 +87,14 @@
     },
     {
       "title": "MUSE",
+      "country": "Kyrgyzstan",
+      "rank": 59,
+      "movement": "+10",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
       "country": "Nepal",
       "rank": 61,
       "movement": "=",
@@ -95,25 +103,9 @@
     },
     {
       "title": "MUSE",
-      "country": "Kyrgyzstan",
-      "rank": 67,
-      "movement": "+2",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
       "country": "Laos",
-      "rank": 88,
-      "movement": "=",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Singapore",
-      "rank": 99,
-      "movement": "-38",
+      "rank": 87,
+      "movement": "+1",
       "type": "album",
       "isTop1": false
     }
@@ -136,7 +128,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     }
