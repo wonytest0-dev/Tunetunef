@@ -1,5 +1,5 @@
 {
-  "updatedAt": "16/08/2026, 01:18:31 KST",
+  "updatedAt": "16/08/2026, 02:16:25 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -16,6 +16,14 @@
       "country": "Gambia",
       "rank": 52,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Malaysia",
+      "rank": 104,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -100,21 +108,13 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Spain",
-      "rank": 179,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
     }
   ],
   "summary": [
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -128,7 +128,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     }
