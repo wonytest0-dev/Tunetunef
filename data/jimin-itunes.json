@@ -1,6 +1,6 @@
 {
-  "updatedAt": "15/08/2026, 15:30:03 KST",
-  "totalEntries": 14,
+  "updatedAt": "15/08/2026, 16:26:10 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
@@ -79,14 +79,6 @@
     },
     {
       "title": "MUSE",
-      "country": "Mexico",
-      "rank": 51,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 56,
       "movement": "+3",
@@ -112,7 +104,7 @@
     {
       "title": "MUSE",
       "country": "Spain",
-      "rank": 115,
+      "rank": 118,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -136,7 +128,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 6,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
