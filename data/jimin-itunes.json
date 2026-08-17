@@ -1,5 +1,5 @@
 {
-  "updatedAt": "17/08/2026, 12:44:56 KST",
+  "updatedAt": "17/08/2026, 13:36:16 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -13,17 +13,17 @@
     },
     {
       "title": "Who",
-      "country": "Hungary",
-      "rank": 50,
-      "movement": "NE",
+      "country": "Gambia",
+      "rank": 52,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Gambia",
+      "country": "Hungary",
       "rank": 52,
-      "movement": "=",
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
