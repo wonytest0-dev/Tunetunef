@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18/08/2026, 20:20:49 KST",
-  "totalEntries": 13,
+  "updatedAt": "18/08/2026, 21:35:47 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
@@ -21,8 +21,8 @@
     },
     {
       "title": "Who",
-      "country": "Mexico",
-      "rank": 179,
+      "country": "Vietnam",
+      "rank": 106,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -31,7 +31,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 18,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -47,7 +47,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 27,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -72,6 +72,14 @@
       "country": "Micronesia",
       "rank": 52,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Vietnam",
+      "rank": 95,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     }
@@ -121,7 +129,7 @@
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 6,
+      "totalEntries": 7,
       "totalTop1": 0,
       "countriesTop1": []
     },
