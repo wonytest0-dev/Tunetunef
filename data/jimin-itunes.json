@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/08/2026, 00:26:59 KST",
+  "updatedAt": "19/08/2026, 01:25:23 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Vietnam",
-      "rank": 134,
+      "rank": 141,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -54,8 +54,8 @@
     {
       "title": "Like Crazy",
       "country": "Niger",
-      "rank": 30,
-      "movement": "=",
+      "rank": 31,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -78,7 +78,7 @@
     {
       "title": "Like Crazy",
       "country": "Vietnam",
-      "rank": 122,
+      "rank": 128,
       "movement": "NE",
       "type": "single",
       "isTop1": false
