@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20/08/2026, 04:21:06 KST",
-  "totalEntries": 12,
+  "updatedAt": "20/08/2026, 05:20:54 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
@@ -16,6 +16,22 @@
       "country": "Gambia",
       "rank": 50,
       "movement": "+1",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Belgium",
+      "rank": 92,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Turkey",
+      "rank": 178,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -106,7 +122,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 2,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
