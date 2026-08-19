@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19/08/2026, 08:17:42 KST",
-  "totalEntries": 13,
+  "updatedAt": "19/08/2026, 09:58:37 KST",
+  "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
     {
@@ -66,14 +66,6 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
-      "country": "Vietnam",
-      "rank": 197,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
     }
   ],
   "albums": [
@@ -121,7 +113,7 @@
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 7,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     },
