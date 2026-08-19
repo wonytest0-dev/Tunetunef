@@ -1,5 +1,5 @@
 {
-  "updatedAt": "19/08/2026, 09:58:37 KST",
+  "updatedAt": "19/08/2026, 11:19:44 KST",
   "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
@@ -14,16 +14,16 @@
     {
       "title": "Who",
       "country": "Gambia",
-      "rank": 51,
-      "movement": "+1",
+      "rank": 50,
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 18,
-      "movement": "=",
+      "rank": 16,
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
@@ -38,8 +38,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 27,
-      "movement": "=",
+      "rank": 25,
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
