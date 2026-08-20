@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20/08/2026, 15:37:37 KST",
-  "totalEntries": 13,
+  "updatedAt": "20/08/2026, 16:36:42 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
@@ -108,6 +108,14 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Japan",
+      "rank": 137,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
     }
   ],
   "summary": [
@@ -128,7 +136,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
