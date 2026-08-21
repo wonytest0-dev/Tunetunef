@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22/08/2026, 01:27:08 KST",
+  "updatedAt": "22/08/2026, 02:23:52 KST",
   "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
@@ -96,8 +96,8 @@
     {
       "title": "MUSE",
       "country": "Laos",
-      "rank": 87,
-      "movement": "+1",
+      "rank": 88,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     }
