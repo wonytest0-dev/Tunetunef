@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/08/2026, 04:19:14 KST",
+  "updatedAt": "23/08/2026, 05:16:56 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -13,14 +13,6 @@
     },
     {
       "title": "Who",
-      "country": "Kazakhstan",
-      "rank": 45,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
       "country": "Gambia",
       "rank": 48,
       "movement": "=",
@@ -29,8 +21,16 @@
     },
     {
       "title": "Who",
+      "country": "Kazakhstan",
+      "rank": 54,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Portugal",
-      "rank": 73,
+      "rank": 80,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -120,7 +120,7 @@
     {
       "title": "MUSE",
       "country": "Japan",
-      "rank": 164,
+      "rank": 166,
       "movement": "NE",
       "type": "album",
       "isTop1": false
