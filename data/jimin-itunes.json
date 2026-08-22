@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22/08/2026, 19:18:03 KST",
+  "updatedAt": "22/08/2026, 20:16:28 KST",
   "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
@@ -71,17 +71,17 @@
   "albums": [
     {
       "title": "MUSE",
-      "country": "Kyrgyzstan",
+      "country": "Micronesia",
       "rank": 47,
-      "movement": "-1",
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Micronesia",
-      "rank": 47,
-      "movement": "=",
+      "country": "Kyrgyzstan",
+      "rank": 48,
+      "movement": "-2",
       "type": "album",
       "isTop1": false
     },
