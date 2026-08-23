@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23/08/2026, 15:32:57 KST",
-  "totalEntries": 13,
+  "updatedAt": "23/08/2026, 16:29:06 KST",
+  "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
     {
@@ -16,14 +16,6 @@
       "country": "Gambia",
       "rank": 48,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Kazakhstan",
-      "rank": 83,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -114,7 +106,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
