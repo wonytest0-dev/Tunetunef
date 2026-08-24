@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25/08/2026, 04:24:48 KST",
-  "totalEntries": 12,
+  "updatedAt": "25/08/2026, 05:24:26 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
@@ -20,10 +20,18 @@
       "isTop1": false
     },
     {
+      "title": "Who",
+      "country": "Mexico",
+      "rank": 151,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 16,
-      "movement": "-2",
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -39,7 +47,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 25,
-      "movement": "-2",
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -106,7 +114,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
