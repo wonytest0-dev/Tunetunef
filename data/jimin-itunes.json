@@ -1,8 +1,16 @@
 {
-  "updatedAt": "25/08/2026, 19:26:10 KST",
-  "totalEntries": 12,
+  "updatedAt": "25/08/2026, 20:22:43 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
+    {
+      "title": "Who",
+      "country": "Kazakhstan",
+      "rank": 7,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
     {
       "title": "Who",
       "country": "Guinea-Bissau",
@@ -80,7 +88,7 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 53,
+      "rank": 54,
       "movement": "=",
       "type": "album",
       "isTop1": false
@@ -106,7 +114,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
