@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/08/2026, 20:24:38 KST",
+  "updatedAt": "26/08/2026, 21:41:58 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -30,7 +30,7 @@
     {
       "title": "Who",
       "country": "Mexico",
-      "rank": 173,
+      "rank": 189,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -97,7 +97,7 @@
       "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 57,
-      "movement": "-4",
+      "movement": "-3",
       "type": "album",
       "isTop1": false
     },
