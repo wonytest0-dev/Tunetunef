@@ -1,5 +1,5 @@
 {
-  "updatedAt": "27/08/2026, 22:40:04 KST",
+  "updatedAt": "28/08/2026, 08:31:20 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -80,8 +80,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 56,
-      "movement": "+1",
+      "rank": 57,
+      "movement": "-1",
       "type": "album",
       "isTop1": false
     },
@@ -97,15 +97,15 @@
       "title": "MUSE",
       "country": "Laos",
       "rank": 88,
-      "movement": "-1",
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
       "country": "Denmark",
-      "rank": 90,
-      "movement": "NE",
+      "rank": 127,
+      "movement": "-74",
       "type": "album",
       "isTop1": false
     }
