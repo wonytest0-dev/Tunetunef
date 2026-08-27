@@ -1,6 +1,6 @@
 {
-  "updatedAt": "27/08/2026, 06:36:13 KST",
-  "totalEntries": 14,
+  "updatedAt": "27/08/2026, 11:50:14 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Mexico",
-      "rank": 72,
+      "rank": 93,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -30,8 +30,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 16,
-      "movement": "=",
+      "rank": 18,
+      "movement": "-2",
       "type": "single",
       "isTop1": false
     },
@@ -46,8 +46,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 25,
-      "movement": "=",
+      "rank": 27,
+      "movement": "-2",
       "type": "single",
       "isTop1": false
     },
@@ -79,14 +79,6 @@
   "albums": [
     {
       "title": "MUSE",
-      "country": "Denmark",
-      "rank": 40,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
@@ -96,8 +88,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 58,
-      "movement": "-4",
+      "rank": 56,
+      "movement": "-1",
       "type": "album",
       "isTop1": false
     },
@@ -111,9 +103,25 @@
     },
     {
       "title": "MUSE",
+      "country": "Denmark",
+      "rank": 62,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
       "country": "Laos",
       "rank": 88,
       "movement": "-1",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Mexico",
+      "rank": 89,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     }
@@ -136,7 +144,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
