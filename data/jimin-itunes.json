@@ -1,5 +1,5 @@
 {
-  "updatedAt": "28/08/2026, 17:45:27 KST",
+  "updatedAt": "29/08/2026, 05:38:53 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -8,6 +8,14 @@
       "country": "Guinea-Bissau",
       "rank": 13,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Bulgaria",
+      "rank": 23,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -100,21 +108,13 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Denmark",
-      "rank": 180,
-      "movement": "-111",
-      "type": "album",
-      "isTop1": false
     }
   ],
   "summary": [
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -128,7 +128,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     }
