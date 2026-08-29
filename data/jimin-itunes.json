@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29/08/2026, 19:41:54 KST",
-  "totalEntries": 13,
+  "updatedAt": "30/08/2026, 00:26:11 KST",
+  "totalEntries": 18,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,7 +22,15 @@
     {
       "title": "Who",
       "country": "Bulgaria",
-      "rank": 52,
+      "rank": 68,
+      "movement": "-52",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Spain",
+      "rank": 87,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -74,6 +82,38 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "country": "Singapore",
+      "rank": 12,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "country": "Cape Verde",
+      "rank": 14,
+      "movement": "+1",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "country": "Guinea-Bissau",
+      "rank": 20,
+      "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "country": "Micronesia",
+      "rank": 53,
+      "movement": "=",
+      "type": "single",
+      "isTop1": false
     }
   ],
   "albums": [
@@ -88,8 +128,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 57,
-      "movement": "-2",
+      "rank": 58,
+      "movement": "-3",
       "type": "album",
       "isTop1": false
     },
@@ -114,7 +154,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -122,6 +162,13 @@
       "title": "Like Crazy",
       "type": "single",
       "totalEntries": 6,
+      "totalTop1": 0,
+      "countriesTop1": []
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "type": "single",
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
