@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30/08/2026, 04:07:07 KST",
-  "totalEntries": 18,
+  "updatedAt": "30/08/2026, 07:15:19 KST",
+  "totalEntries": 17,
   "totalTop1": 0,
   "singles": [
     {
@@ -14,56 +14,16 @@
     {
       "title": "Who",
       "country": "Gambia",
-      "rank": 48,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Bulgaria",
-      "rank": 74,
-      "movement": "-58",
+      "rank": 49,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Spain",
-      "rank": 110,
+      "rank": 154,
       "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "country": "Cape Verde",
-      "rank": 14,
-      "movement": "+1",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "country": "Singapore",
-      "rank": 14,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "country": "Guinea-Bissau",
-      "rank": 20,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "country": "Micronesia",
-      "rank": 53,
-      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -114,6 +74,38 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "country": "Cape Verde",
+      "rank": 14,
+      "movement": "+1",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "country": "Guinea-Bissau",
+      "rank": 20,
+      "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "country": "Singapore",
+      "rank": 21,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "country": "Micronesia",
+      "rank": 53,
+      "movement": "=",
+      "type": "single",
+      "isTop1": false
     }
   ],
   "albums": [
@@ -128,8 +120,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 58,
-      "movement": "-3",
+      "rank": 59,
+      "movement": "-4",
       "type": "album",
       "isTop1": false
     },
@@ -154,14 +146,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Set Me Free, Pt. 2",
-      "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -169,6 +154,13 @@
       "title": "Like Crazy",
       "type": "single",
       "totalEntries": 6,
+      "totalTop1": 0,
+      "countriesTop1": []
+    },
+    {
+      "title": "Set Me Free, Pt. 2",
+      "type": "single",
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
