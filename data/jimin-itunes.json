@@ -1,5 +1,5 @@
 {
-  "updatedAt": "30/08/2026, 07:15:19 KST",
+  "updatedAt": "30/08/2026, 09:58:34 KST",
   "totalEntries": 17,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Spain",
-      "rank": 154,
+      "rank": 190,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -94,7 +94,7 @@
     {
       "title": "Set Me Free, Pt. 2",
       "country": "Singapore",
-      "rank": 21,
+      "rank": 22,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -120,7 +120,7 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 59,
+      "rank": 60,
       "movement": "-4",
       "type": "album",
       "isTop1": false
