@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31/08/2026, 02:09:46 KST",
+  "updatedAt": "31/08/2026, 05:27:20 KST",
   "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
@@ -14,8 +14,8 @@
     {
       "title": "Who",
       "country": "Gambia",
-      "rank": 49,
-      "movement": "-1",
+      "rank": 50,
+      "movement": "-2",
       "type": "single",
       "isTop1": false
     },
