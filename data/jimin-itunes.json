@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02/09/2026, 02:17:37 KST",
-  "totalEntries": 13,
+  "updatedAt": "02/09/2026, 05:27:10 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Switzerland",
-      "rank": 120,
+      "rank": 161,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -79,6 +79,14 @@
   "albums": [
     {
       "title": "MUSE",
+      "country": "Singapore",
+      "rank": 16,
+      "movement": "NE",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
@@ -128,7 +136,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
