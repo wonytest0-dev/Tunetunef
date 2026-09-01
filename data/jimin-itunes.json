@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01/09/2026, 16:09:27 KST",
-  "totalEntries": 13,
+  "updatedAt": "01/09/2026, 22:00:15 KST",
+  "totalEntries": 12,
   "totalTop1": 0,
   "singles": [
     {
@@ -16,14 +16,6 @@
       "country": "Gambia",
       "rank": 50,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "United Arab Emirates",
-      "rank": 84,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -114,7 +106,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
