@@ -1,8 +1,16 @@
 {
-  "updatedAt": "02/09/2026, 19:29:40 KST",
+  "updatedAt": "02/09/2026, 23:55:14 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
+    {
+      "title": "Who",
+      "country": "Finland",
+      "rank": 5,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
     {
       "title": "Who",
       "country": "Guinea-Bissau",
@@ -14,7 +22,7 @@
     {
       "title": "Who",
       "country": "United Arab Emirates",
-      "rank": 29,
+      "rank": 46,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -24,14 +32,6 @@
       "country": "Gambia",
       "rank": 50,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Finland",
-      "rank": 152,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -88,7 +88,7 @@
     {
       "title": "MUSE",
       "country": "Singapore",
-      "rank": 32,
+      "rank": 40,
       "movement": "NE",
       "type": "album",
       "isTop1": false
