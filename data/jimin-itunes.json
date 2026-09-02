@@ -1,21 +1,21 @@
 {
-  "updatedAt": "03/09/2026, 06:32:25 KST",
+  "updatedAt": "03/09/2026, 08:48:07 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
-      "country": "Finland",
-      "rank": 11,
-      "movement": "NE",
+      "country": "Guinea-Bissau",
+      "rank": 13,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Guinea-Bissau",
-      "rank": 13,
-      "movement": "=",
+      "country": "Finland",
+      "rank": 15,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -96,16 +96,16 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 63,
-      "movement": "=",
+      "rank": 67,
+      "movement": "-5",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
       "country": "Singapore",
-      "rank": 66,
-      "movement": "-49",
+      "rank": 74,
+      "movement": "-57",
       "type": "album",
       "isTop1": false
     },
