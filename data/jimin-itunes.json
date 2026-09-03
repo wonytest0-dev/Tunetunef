@@ -1,5 +1,5 @@
 {
-  "updatedAt": "03/09/2026, 08:48:07 KST",
+  "updatedAt": "03/09/2026, 11:41:58 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -15,7 +15,7 @@
       "title": "Who",
       "country": "Finland",
       "rank": 15,
-      "movement": "NE",
+      "movement": "+120",
       "type": "single",
       "isTop1": false
     },
@@ -96,8 +96,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 67,
-      "movement": "-5",
+      "rank": 66,
+      "movement": "-4",
       "type": "album",
       "isTop1": false
     },
