@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04/09/2026, 01:52:47 KST",
-  "totalEntries": 15,
+  "updatedAt": "04/09/2026, 04:36:03 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,16 +22,8 @@
     {
       "title": "Who",
       "country": "Malaysia",
-      "rank": 128,
+      "rank": 145,
       "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Finland",
-      "rank": 187,
-      "movement": "-182",
       "type": "single",
       "isTop1": false
     },
@@ -130,7 +122,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
