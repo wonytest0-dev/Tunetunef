@@ -1,5 +1,5 @@
 {
-  "updatedAt": "04/09/2026, 07:14:06 KST",
+  "updatedAt": "04/09/2026, 09:42:17 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Malaysia",
-      "rank": 168,
+      "rank": 188,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -61,14 +61,6 @@
     },
     {
       "title": "Like Crazy",
-      "country": "Ukraine",
-      "rank": 49,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
       "country": "Micronesia",
       "rank": 51,
       "movement": "=",
@@ -80,6 +72,14 @@
       "country": "Micronesia",
       "rank": 52,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Ukraine",
+      "rank": 58,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     }
