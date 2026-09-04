@@ -1,5 +1,5 @@
 {
-  "updatedAt": "05/09/2026, 03:01:03 KST",
+  "updatedAt": "05/09/2026, 06:11:24 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -13,17 +13,17 @@
     },
     {
       "title": "Who",
-      "country": "Malaysia",
-      "rank": 44,
-      "movement": "+101",
+      "country": "Gambia",
+      "rank": 51,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Gambia",
-      "rank": 51,
-      "movement": "-1",
+      "country": "Malaysia",
+      "rank": 57,
+      "movement": "+111",
       "type": "single",
       "isTop1": false
     },
