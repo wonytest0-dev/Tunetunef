@@ -1,6 +1,6 @@
 {
-  "updatedAt": "05/09/2026, 20:34:06 KST",
-  "totalEntries": 15,
+  "updatedAt": "05/09/2026, 23:28:20 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,15 +22,7 @@
     {
       "title": "Who",
       "country": "Thailand",
-      "rank": 145,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Malaysia",
-      "rank": 159,
+      "rank": 189,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -61,14 +53,6 @@
     },
     {
       "title": "Like Crazy",
-      "country": "Ukraine",
-      "rank": 26,
-      "movement": "+61",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
       "country": "Niger",
       "rank": 32,
       "movement": "=",
@@ -88,6 +72,14 @@
       "country": "Micronesia",
       "rank": 52,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Ukraine",
+      "rank": 69,
+      "movement": "+30",
       "type": "single",
       "isTop1": false
     }
@@ -130,7 +122,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
